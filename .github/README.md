@@ -1,15 +1,13 @@
 ![image](https://user-images.githubusercontent.com/6818236/135372003-c609a9af-6765-4a3d-9964-d6875868c4f3.png)
 <p align="center">
-  <p align="center">
-    Bug fixes and minor visual improvements to the default Team Fortress 2 HUD.
-    <br />
-    <a href="https://steamcommunity.com/workshop/filedetails/?id=2153598398">Steam Workshop</a> · <a href="https://steamcommunity.com/workshop/filedetails/?id=2156577890">TF2 Community Fix-Up Pack</a> · <a href="https://gamebanana.com/mods/26450">GameBanana</a> · <a href="https://github.com/CriticalFlaw/TF2HUD.Editor/releases/latest">HUD Editor</a>
-  </p>
+  Bug fixes and minor visual improvements to the default Team Fortress 2 HUD.
+  <br />
+  <a href="https://steamcommunity.com/workshop/filedetails/?id=2153598398">Steam Workshop</a> · <a href="https://steamcommunity.com/workshop/filedetails/?id=2156577890">TF2 Community Fix-Up Pack</a> · <a href="https://gamebanana.com/mods/26450">GameBanana</a> · <a href="https://comfig.app/huds/page/hud-fixes">comfig huds</a> · <a href="https://tf2huds.dev/hud/hud-fixes">TF2HUDS</a> 
 </p>
 
 ---
 
-### Changelog
+### Notables Fixes
 - Added minmode UI for Capture the Flag and Player Destruction game-modes.
 - Added missing font definition HudMenuNumberFont to the client scheme.
 - Centered the Watch Movie button on the map info screen.
@@ -40,7 +38,7 @@
 - Updated the Item Testing screen to not overlap with the matchmaking dashboard.
 - Updated the Replay screen's header and footer to match other main menu screens.
 
-#### Additional Changes
+#### Quality of Life Changes
 - A customizations menu for toggling the crosshair, speedometer, damage numbers, transparent viewmodels and more.
 - Matchmaking stats on the main menu.
 - Buttons for changing team colors on the Loadout screen.
@@ -55,13 +53,12 @@
 - [Hypnootize](https://github.com/Hypnootize) for the [HUD Crosshairs](https://github.com/Hypnootize/TF2-HUD-Crosshairs).
 - [Jofre-Problem](https://github.com/Jofre-Problem) for the matchmaking stats on the main menu.
 - [quickkennedy](https://github.com/quickkennedy) for the quake-style [speedometer](https://www.teamfortress.tv/61625/speedometer-in-any-hud).
-- [impale1](https://github.com/impale1) for the match summary and vote panel fixes.
-- [Eerorri](https://github.com/Eerorri) for the Capture the Flag UI fixes.
+- and everyone who has contributed to this mod. See the full list [here](https://github.com/CriticalFlaw/tf2hud-fixes/graphs/contributors).
 
 ### Suggested Mods
 *Following mods do not fit the scope of this project, but should work alongside the HUD.*
-- [Missing Killicons Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2156604959) by [NeoDement](https://github.com/NeoDement).
+- [Missing Killicons Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2156604959) by [NeoDement](https://github.com/NeoDement)
 - [HD Menu Event Backgrounds](https://gamebanana.com/mods/406953) by [Tkain](https://gamebanana.com/members/1582147)
 - [Upscaled Menu Character Images](https://gamebanana.com/mods/287264) by [AtomicTEM](https://gamebanana.com/members/1528272)
 - [Sloofy's Overhauled UI Portraits](https://gamebanana.com/mods/26400) by [Sloofy](https://gamebanana.com/members/1625037)
-- [Fixed 16:9 Loading Screen](https://gamebanana.com/mods/397571) by [Corndog Ninja](https://gamebanana.com/members/890406).
+- [Fixed 16:9 Loading Screen](https://gamebanana.com/mods/397571) by [Corndog Ninja](https://gamebanana.com/members/890406)
