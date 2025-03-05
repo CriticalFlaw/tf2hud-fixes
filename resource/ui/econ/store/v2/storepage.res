@@ -5,7 +5,7 @@
 		"ControlName"	"Frame"
 		"fieldName"		"StorePage"
 		"xpos"			"0"
-		"ypos"			"40"
+		"ypos"			"50"
 		"wide"			"f0"
 		"tall"			"480"
 		"autoResize"	"0"
