@@ -82,7 +82,7 @@
 		"tabxdelta"		"3"
 		"tabxfittotext"	"1"
 		"tabheight"		"20"
-		"yoffset"		"14"
+		"yoffset"		"5"
 		"transition_time" "0"
 		
 		"HeaderLine"
@@ -90,7 +90,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"HeaderLine"
 			"xpos"			"0"
-			"ypos"			"20"
+			"ypos"			"23"
 			"zpos"			"5"
 			"wide"			"f0"
 			"tall"			"10"
