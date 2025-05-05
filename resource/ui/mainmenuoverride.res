@@ -233,14 +233,14 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"TFLogoImage"
-		"xpos"			"c-295"
-		"ypos"			"36"
+		"xpos"			"c-290"
+		"ypos"			"32"
 		"zpos"			"1"
 		"wide"			"256"
 		"tall"			"64"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../vgui/replay/thumbnails/main_menu_logo"
+		"image"			"../logo/new_tf2_logo"
 		"scaleImage"	"1"
 		"mouseinputenabled"	"0"
 	}	
