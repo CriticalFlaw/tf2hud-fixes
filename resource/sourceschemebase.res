@@ -518,6 +518,19 @@ Scheme
 				"name"		"Trebuchet MS"
 				"tall"		"24"
 				"weight"	"900"
+				"range"		"0x0000 0x007F"    //    Basic Latin
+				"antialias"	"1"
+ 				"additive"	"1"
+				"yres"		"480 1199"
+			}
+			"2" // misyl: Proportional
+			{
+				"name"			"Trebuchet MS"
+				"tall"			"16"
+				"weight"		"900"
+				"range"			"0x0000 0x007F"    //    Basic Latin
+				"antialias"		"1"
+				"additive"		"1"
 			}
 		}
 
