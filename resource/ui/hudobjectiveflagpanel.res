@@ -25,12 +25,12 @@
 		"xpos"			"c-140"
 		"ypos"			"r75"	[$WIN32]
 		"ypos"			"r96"	[$X360]
-		"xpos_minmode"	"c-110"
+		"xpos_minmode"	"c-95"
 		"ypos_minmode"	"r55"
 		"zpos"			"1"
 		"wide"			"280"
 		"tall"			"80"
-		"wide_minmode"	"224"
+		"wide_minmode"	"190"
 		"tall_minmode"	"64"
 		"visible"		"1"
 		"enabled"		"1"
@@ -65,12 +65,12 @@
 		"xpos"			"c-140"
 		"ypos"			"r75"	[$WIN32]
 		"ypos"			"r96"	[$X360]
-		"xpos_minmode"	"c-110"
+		"xpos_minmode"	"c-95"
 		"ypos_minmode"	"r55"
 		"zpos"			"1"
 		"wide"			"280"
 		"tall"			"80"
-		"wide_minmode"	"224"
+		"wide_minmode"	"190"
 		"tall_minmode"	"64"
 		"visible"		"1"
 		"enabled"		"1"
@@ -105,12 +105,12 @@
 		"xpos"			"c-140"
 		"ypos"			"r75"	[$WIN32]
 		"ypos"			"r96"	[$X360]
-		"xpos_minmode"	"c-110"
+		"xpos_minmode"	"c-95"
 		"ypos_minmode"	"r55"
 		"zpos"			"2"
 		"wide"			"280"
 		"tall"			"80"
-		"wide_minmode"	"224"
+		"wide_minmode"	"190"
 		"tall_minmode"	"64"
 		"visible"		"1"
 		"enabled"		"1"
@@ -146,7 +146,7 @@
 		"ypos"			"r47"
 		"ypos_lodef"	"r88"
 		"ypos_hidef"	"r93"
-		"xpos_minmode"	"c-100"
+		"xpos_minmode"	"c-85"
 		"ypos_minmode"	"r37"
 		"zpos"			"8"
 		"wide"			"75"
@@ -192,7 +192,7 @@
 		"ypos"			"r46"
 		"ypos_lodef"	"r87"
 		"ypos_hidef"	"r92"
-		"xpos_minmode"	"c-98"
+		"xpos_minmode"	"c-83"
 		"ypos_minmode"	"r36"
 		"zpos"			"7"
 		"wide"			"75"
@@ -238,7 +238,7 @@
 		"ypos"			"r47"
 		"ypos_lodef"	"r88"
 		"ypos_hidef"	"r93"
-		"xpos_minmode"	"c27"
+		"xpos_minmode"	"c12"
 		"ypos_minmode"	"r37"
 		"zpos"			"8"
 		"wide"			"75"
@@ -284,7 +284,7 @@
 		"ypos"			"r46"
 		"ypos_lodef"	"r87"
 		"ypos_hidef"	"r92"
-		"xpos_minmode"	"c29"
+		"xpos_minmode"	"c14"
 		"ypos_minmode"	"r36"
 		"zpos"			"7"
 		"wide"			"75"
@@ -386,7 +386,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"HudFontSmall"
+		"font"			"HudFontSmallest"
 		"fgcolor"		"TanLight"
 		
 		"if_hybrid"
@@ -420,9 +420,13 @@
 		"ypos"			"r51"	[$X360]
 		"zpos"			"3"
 		"wide"			"150"	[$WIN32]
+		"xpos_minmode"	"c-54"	
+		"ypos_minmode"  "r27"
 		"wide"			"140"	[$X360]
 		"tall"			"38"	[$WIN32]
 		"tall"			"35"	[$X360]
+		"wide_minmode"  "110"
+		"tall_minmode"  "28"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_bg_playingto"
@@ -457,7 +461,7 @@
 		"xpos"			"c-135"
 		"ypos"			"r95"	[$WIN32]
 		"ypos"			"r116"	[$X360]
-		"xpos_minmode"	"c-110"
+		"xpos_minmode"	"c-100"
 		"ypos_minmode"	"r80"
 		"zpos"			"5"
 		"wide"			"160"
@@ -508,7 +512,7 @@
 		"xpos"			"c-25"
 		"ypos"			"r95"	[$WIN32]
 		"ypos"			"r116"	[$X360]
-		"xpos_minmode"	"c-35"
+		"xpos_minmode"	"c-45"
 		"ypos_minmode"	"r80"
 		"zpos"			"5"
 		"wide"			"160"
