@@ -6,27 +6,7 @@
 		"avatar_width"	"63"
 		"spacer"		"5"
 		"name_width"	"57"
-		"horiz_inset"	"2"	
-		
-		"BGFrame"
-		{
-			"ControlName"		"EditablePanel"
-			"fieldName"			"BGFrame"
-			"xpos"				"cs-0.5"
-			"ypos"				"-5"
-			"zpos"				"0"
-			"wide"				"498"
-			"tall"				"28"
-			"visible"			"0"
-	
-			"proportionaltoaparent"	"1"
-			"border"			"TFFatLineBorder"
-	
-			if_match
-			{
-				"visible"		"1"
-			}
-		}
+		"horiz_inset"	"2"
 	}
 
 	"RoundSignModel"
@@ -225,6 +205,26 @@
 		"tall"			"100"
 		"visible"		"1"
 		"enabled"		"1"
+	}	
+
+	"BGFrame"
+	{
+		"ControlName"		"EditablePanel"
+		"fieldName"			"BGFrame"
+		"xpos"				"cs-0.5"
+		"ypos"				"-5"
+		"zpos"				"0"
+		"wide"				"498"
+		"tall"				"28"
+		"visible"			"0"
+
+		"proportionaltoaparent"	"1"
+		"border"			"TFFatLineBorder"
+
+		if_match
+		{
+			"visible"		"1"
+		}
 	}
 
 	"RankUpLabel"

@@ -20,3 +20,6 @@ startupmenu
 
 // FOR XBOX CERT
 //sv_unlockedchapters 99
+
+// Apply HUD settings
+hud_reloadscheme
