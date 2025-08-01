@@ -69,13 +69,14 @@
 			"wide"			"f0"
 			"tall"			"9"
 			"proportionaltoparent"	"1"
+			"use_proportional_insets"	"1"
 
 			"actionsignallevel"	"2"
 			"command"		"toggle_collapse"
 			"labeltext"		"#TF_Casual_ViewMaps"
 			"textAlignment"	"west"
 			"font"	"MMenuPlayListDesc"
-			"textinsetx"	"40"
+			"textinsetx"	"18"
 
 			"stay_armed_on_click"	"1"
 
