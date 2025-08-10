@@ -6,6 +6,7 @@
 		"fieldName"			"ObjectiveStatusFlagPanel"
 		"xpos"				"0"
 		"ypos"				"0"
+		"ypos_minmode"      "10"
 		"zpos"				"1"
 		"wide"				"f0"
 		"tall"				"480"
@@ -147,7 +148,7 @@
 		"ypos_lodef"	"r88"
 		"ypos_hidef"	"r93"
 		"xpos_minmode"	"c-85"
-		"ypos_minmode"	"r37"
+		"ypos_minmode"	"r38"
 		"zpos"			"8"
 		"wide"			"75"
 		"tall"			"35"
@@ -192,8 +193,8 @@
 		"ypos"			"r46"
 		"ypos_lodef"	"r87"
 		"ypos_hidef"	"r92"
-		"xpos_minmode"	"c-83"
-		"ypos_minmode"	"r36"
+		"xpos_minmode"	"c-84"
+		"ypos_minmode"	"r37"
 		"zpos"			"7"
 		"wide"			"75"
 		"tall"			"35"
@@ -239,7 +240,7 @@
 		"ypos_lodef"	"r88"
 		"ypos_hidef"	"r93"
 		"xpos_minmode"	"c12"
-		"ypos_minmode"	"r37"
+		"ypos_minmode"	"r38"
 		"zpos"			"8"
 		"wide"			"75"
 		"tall"			"35"
@@ -284,8 +285,8 @@
 		"ypos"			"r46"
 		"ypos_lodef"	"r87"
 		"ypos_hidef"	"r92"
-		"xpos_minmode"	"c14"
-		"ypos_minmode"	"r36"
+		"xpos_minmode"	"c13"
+		"ypos_minmode"	"r37"
 		"zpos"			"7"
 		"wide"			"75"
 		"tall"			"35"
@@ -375,6 +376,7 @@
 		"xpos"			"c-70"	[$WIN32]
 		"xpos"			"c-60"	[$X360]
 		"ypos"			"r28"	[$WIN32]
+		"ypos_minmode"  "r33"
 		"ypos"			"r48"	[$X360]
 		"zpos"			"4"
 		"wide"			"140"	[$WIN32]
@@ -386,7 +388,8 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"HudFontSmallest"
+		"font"			"HudFontSmall"
+		"font_minmode"	"HudFontSmallest"
 		"fgcolor"		"TanLight"
 		
 		"if_hybrid"
@@ -421,7 +424,7 @@
 		"zpos"			"3"
 		"wide"			"150"	[$WIN32]
 		"xpos_minmode"	"c-54"	
-		"ypos_minmode"  "r27"
+		"ypos_minmode"  "r32"
 		"wide"			"140"	[$X360]
 		"tall"			"38"	[$WIN32]
 		"tall"			"35"	[$X360]
