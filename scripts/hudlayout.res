@@ -1,5 +1,7 @@
 #base "../resource/ui/#customizations/transparent_viewmodels/transparent_viewmodels.res"
 #base "../resource/ui/#customizations/killfeed/killfeed.res"
+#base "../resource/ui/#customizations/center/metal.res"
+#base "../resource/ui/#customizations/center/uber.res"
 
 "Resource/HudLayout.res"
 {
@@ -72,21 +74,6 @@
 		"tall"			"50"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
-	}
-	
-	HudMedicCharge
-	{
-		"fieldName"		"HudMedicCharge"
-		"visible"		"1"
-		"enabled"		"1"
-		"xpos"			"r138"	[$WIN32]
-		"xpos_minmode"	"r100"	[$WIN32]
-		"ypos"			"r69"	[$WIN32]
-		"ypos_minmode"	"r34"	[$WIN32]
-		"xpos"			"r174"	[$X360]
-		"ypos"			"r90"	[$X360]
-		"wide"			"200"
-		"tall"			"100"
 	}
 	
 	HudDemomanCharge
@@ -197,21 +184,6 @@
 		"SelectedBoxClor" "0 0 0 220"
 		"SelectionNumberFg"	"200 187 161 255"
 		"NumberFont" "HudSelectionText"
-	}
-	
-	CHudAccountPanel
-	{
-		"fieldName"				"CHudAccountPanel"
-		"xpos"					"r162"	[$WIN32]
-		"ypos"					"r152"	[$WIN32]
-		"ypos_minmode"			"r134"	[$WIN32]
-		"xpos"					"r194"	[$X360]
-		"ypos"					"r174"	[$X360]
-		"wide"					"116"
-		"tall"  				"180"
-		"visible" 				"1"
-		"enabled" 				"1"
-		"PaintBackgroundType"	"2"
 	}
 	
 	CHealthAccountPanel

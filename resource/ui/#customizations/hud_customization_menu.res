@@ -6,7 +6,7 @@
 		"fieldName"					"SafeMode"
 		"xpos"						"cs-0.5"
 		"ypos"						"cs-0.5"
-		"wide"						"507"
+		"wide"						"580"
 		"tall"						"320"
 		"zpos"						"50"
 		"visible"					"1"
@@ -152,10 +152,10 @@
 			"pin_to_sibling_corner"			"PIN_TOPRIGHT"
 		}
 		
-		"ReloadGameButton"
+		"RestartGameButton"
 		{
 			"ControlName"					"CExButton"
-			"fieldName"						"ReloadGameButton"
+			"fieldName"						"RestartGameButton"
 			"xpos"							"3"
 			"ypos"							"0"
 			"zpos"							"20"
@@ -191,8 +191,8 @@
 			"xpos"							"3"
 			"ypos"							"0"
 			"zpos"							"20"
-			"wide"							"80"
-			"tall"							"45"
+			"wide"							"135"
+			"tall"							"20"
 			"visible"						"1"
 			"enabled"						"1"
 			"proportionaltoparent"			"1"
@@ -203,7 +203,7 @@
 			"actionsignallevel"				"2"
 			"sound_depressed"				"UI/buttonclick.wav"
 
-			"pin_to_sibling"				"ReloadGameButton"
+			"pin_to_sibling"				"RestartGameButton"
 			"pin_corner_to_sibling"			"PIN_BOTTOMLEFT"
 			"pin_to_sibling_corner"			"PIN_BOTTOMRIGHT"
 		}
