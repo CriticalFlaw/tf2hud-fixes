@@ -1785,5 +1785,15 @@
 				"scaleImage"	"1"
 			}				
 		}
-	}		
+	}
+	
+	"EditLoadoutShortcut"
+	{
+		"ControlName"		"CExButton"
+		"fieldName"			"EditLoadoutShortcut"
+		"wide"				"0"
+		"visible"			"1"
+		"labelText"			"&E"
+		"Command"			"openloadout"
+	}
 }
