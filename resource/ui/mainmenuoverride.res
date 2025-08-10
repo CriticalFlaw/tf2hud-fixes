@@ -233,7 +233,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"TFLogoImage"
-		"xpos"			"10"
+		"xpos"			"c-290"
 		"ypos"			"32"
 		"zpos"			"1"
 		"wide"			"256"
@@ -263,7 +263,7 @@
 	{
 		"ControlName"	"CPvPRankPanel"
 		"fieldName"		"RankModelPanel"
-		"xpos"			"-460"
+		"xpos"			"cs-0.5-264"
 		"ypos"			"cs-0.5-120"
 
 		"zpos"			"-51"
@@ -282,7 +282,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"CycleRankTypeButton"
-		"xpos"			"250"
+		"xpos"			"cs-0.5-52"
 		"ypos"			"cs-0.5-134"
 		"wide"			"15"
 		"tall"			"15"
@@ -353,7 +353,7 @@
 	{
 		"ControlName"	"CPvPRankPanel"
 		"fieldName"		"RankPanel"
-		"xpos"			"-45"
+		"xpos"			"c-350"
 		"ypos"			"72"
 		"zpos"			"-52"
 		"wide"			"320"
@@ -411,7 +411,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"RankBorder"
-		"xpos"			"10"
+		"xpos"			"c-297"
 		"ypos"			"94"
 		"zpos"			"-100"
 		"wide"			"260"
@@ -1383,7 +1383,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"FriendsContainer"
-		"xpos"			"10"
+		"xpos"			"c-297"
 		"ypos"			"260"
 		"zpos"			"5"
 		"wide"			"260"
@@ -1509,7 +1509,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"EventPromo"
-		"xpos"			"10"
+		"xpos"			"c-297"
 		"ypos"			"160"
 		"zpos"			"-55"
 		"wide"			"270"
@@ -2144,7 +2144,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"CharacterSetupButton"
-		"xpos"			"25"
+		"xpos"			"c-295"
 		"ypos"			"437"
 		"wide"			"100"
 		"tall"			"25"
@@ -2205,7 +2205,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"GeneralStoreButton"
-		"xpos"			"150"
+		"xpos"			"c-172"
 		"ypos"			"437"
 		"wide"			"100"
 		"tall"			"25"
@@ -2348,7 +2348,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"SettingsButton"
-		"xpos"			"r248"
+		"xpos"			"c-208+273"
 		"ypos"			"437"
 		"zpos"			"1"
 		"wide"			"30"
@@ -2396,7 +2396,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"TF2SettingsButton"
-		"xpos"			"r224"
+		"xpos"			"c-183+273"
 		"ypos"			"437"
 		"zpos"			"2"
 		"wide"			"26"
@@ -2444,7 +2444,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"NewUserForumsButton"
-		"xpos"			"r199"
+		"xpos"			"c-158+273"
 		"ypos"			"437"
 		"zpos"			"2"
 		"wide"			"30"
@@ -2492,7 +2492,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"AchievementsButton"
-		"xpos"			"r174"
+		"xpos"			"c-133+273"
 		"ypos"			"437"
 		"zpos"			"3"
 		"wide"			"30"
@@ -2539,7 +2539,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"CommentaryButton"
-		"xpos"			"r150"
+		"xpos"			"c-108+273"
 		"ypos"			"437"
 		"zpos"			"4"
 		"wide"			"30"
@@ -2586,7 +2586,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"CoachPlayersButton"
-		"xpos"			"r126"
+		"xpos"			"c-83+273"
 		"ypos"			"437"
 		"zpos"			"5"
 		"wide"			"25"
@@ -2633,7 +2633,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"WorkshopButton"
-		"xpos"			"r106"
+		"xpos"			"c-63+273"
 		"ypos"			"437"
 		"zpos"			"4"
 		"wide"			"30"
@@ -2680,7 +2680,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"ReplayButton"
-		"xpos"			"r78"
+		"xpos"			"c-34+273"
 		"ypos"			"437"
 		"zpos"			"5"
 		"wide"			"25"
@@ -2727,7 +2727,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"ReportBugButton"
-		"xpos"			"r58"
+		"xpos"			"c-14+273"
 		"ypos"			"437"
 		"zpos"			"4"
 		"wide"			"30"
