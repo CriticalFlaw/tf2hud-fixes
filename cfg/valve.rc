@@ -1,3 +1,7 @@
+// ====================================================================
+// Default valve.rc contents
+// ====================================================================
+
 // load the base configuration
 //exec default.cfg
 r_decal_cullsize 1
@@ -7,7 +11,6 @@ exec joystick.cfg
 
 // run a user script file if present
 exec autoexec.cfg
-exec hud_customizations.cfg
 
 //
 // stuff command line statements
@@ -17,8 +20,12 @@ stuffcmds
 // display the startup level
 startupmenu
 
-// FOR XBOX CERT
-//sv_unlockedchapters 99
+sv_unlockedchapters 99
 
-// Apply HUD settings
-hud_reloadscheme
+// ====================================================================
+// HUD settings
+// ====================================================================
+
+// General settings
+exec hud_customizations.cfg                 // Apply HUD aliases for customizations
+hud_reloadscheme                            // Reload HUD scheme to apply settings
