@@ -1,7 +1,3 @@
-// ====================================================================
-// Default valve.rc contents
-// ====================================================================
-
 // load the base configuration
 //exec default.cfg
 r_decal_cullsize 1
@@ -22,10 +18,6 @@ startupmenu
 
 sv_unlockedchapters 99
 
-// ====================================================================
-// HUD settings
-// ====================================================================
-
-// General settings
-exec hud_customizations.cfg                 // Apply HUD aliases for customizations
-hud_reloadscheme                            // Reload HUD scheme to apply settings
+// HUD Settings
+exec hud_customizations.cfg
+hud_reloadscheme
