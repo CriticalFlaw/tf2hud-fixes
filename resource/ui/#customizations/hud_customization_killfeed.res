@@ -256,7 +256,7 @@
 						"labelText"							"9"
 						"font"								"ItemFontNameSmall"
 						"textAlignment"						"center"
-						"Command"							"engine hud_killfeed_rows_8"
+						"Command"							"engine hud_killfeed_rows_9"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
