@@ -2,7 +2,7 @@
 <p align="center">
   Bug fixes and minor visual improvements to the default Team Fortress 2 HUD.
   <br />
-  <a href="https://steamcommunity.com/workshop/filedetails/?id=2153598398">Steam Workshop</a> · <a href="https://steamcommunity.com/workshop/filedetails/?id=2156577890">TF2 Community Fix-Up Pack</a> · <a href="https://gamebanana.com/mods/26450">GameBanana</a> · <a href="https://comfig.app/huds/page/hud-fixes">comfig huds</a> · <a href="https://tf2huds.dev/hud/hud-fixes">TF2HUDS</a> 
+  <a href="https://steamcommunity.com/workshop/filedetails/?id=2153598398">Steam Workshop</a> | <a href="https://steamcommunity.com/workshop/filedetails/?id=2156577890">TF2 Community Fix-Up Pack</a> | <a href="https://gamebanana.com/mods/26450">GameBanana</a> | <a href="https://comfig.app/huds/page/hud-fixes">comfig huds</a> | <a href="https://tf2huds.dev/hud/hud-fixes">TF2HUDS</a> 
 </p>
 
 ---
