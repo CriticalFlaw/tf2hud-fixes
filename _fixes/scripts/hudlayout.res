@@ -1,6 +1,3 @@
-#base "../resource/ui/#customizations/transparent_viewmodels/transparent_viewmodels.res"
-#base "../resource/ui/#customizations/killfeed/killfeed.res"
-
 "Resource/HudLayout.res"
 {
 	HudPlayerStatus
