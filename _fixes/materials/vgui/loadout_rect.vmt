@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui\loadout_rect"
+	//"$translucent" 1
+	"$alphatest" 1
+	"$allowAlphaToCoverage" 1
+	"$ignorez" 1
+}
