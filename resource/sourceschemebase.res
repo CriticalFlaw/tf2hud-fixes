@@ -1,2 +1,2 @@
-#base	"../../_fixes/sourceschemebase.res"
-#base	"../../_tf2hud/sourceschemebase.res"
+#base	"../../_fixes/resource/sourceschemebase.res"
+#base	"../../_tf2hud/resource/sourceschemebase.res"
