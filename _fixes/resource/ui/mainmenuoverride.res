@@ -1,6 +1,3 @@
-#base "../../resource/preload.res"
-#base "#customizations/hud_customization.res"
-
 "Resource/UI/MainMenuOverride.res"
 {
 	MainMenuOverride
@@ -1714,87 +1711,77 @@
 				{
 					"0"
 					{
-						"item"		"Winter 2024 Cosmetic Key" 
+						"item"		"Halloween 2025 Key"
 						"show_market"	"0"
 					}
 					"1"
 					{
-						"item"		"Winter 2024 Cosmetic Case"
+						"item"		"Halloween 2025 Case"
 						"show_market"	"1"
 					}
 					"2"
 					{
-						"item"		"Taunt: Curtain Call"
+						"item"		"Taunt: Heartbreaker"
 						"show_market"	"0"
 					}
 					"3"
 					{
-						"item"		"Taunt: Peace!"
+						"item"		"Taunt: Healthcare Hog"
 						"show_market"	"0"
 					}
 					"4"
 					{
-						"item"		"Taunt: Fore-Head Slice"
+						"item"		"Taunt: Ring King"
 						"show_market"	"0"
 					}
 					"5"
 					{
-						"item"		"Map Token Overcast"
+						"item"		"Map Token Cowerhouse"
 						"show_market"	"0"
 					}
 					"6"
 					{
-						"item"		"Map Token Fortezza"
+						"item"		"Map Token Dusker"
 						"show_market"	"0"
 					}
 					"7"
 					{
-						"item"		"Map Token Penguin Peak"
+						"item"		"Map Token Afterlife"
 						"show_market"	"0"
 					}
 					"8"
 					{
-						"item"		"Map Token Patagonia"
+						"item"		"Map Token Devilcross"
 						"show_market"	"0"
 					}
 					"9"
 					{
-						"item"		"Map Token Cutter"
+						"item"		"Map Token Marshlands"
 						"show_market"	"0"
 					}
 					"10"
 					{
-						"item"		"Map Token Maul"
+						"item"		"Strange Filter: Cowerhouse (Community)"
 						"show_market"	"0"
 					}
 					"11"
 					{
-						"item"		"Strange Filter: Overcast (Community)"
+						"item"		"Strange Filter: Dusker (Community)"
 						"show_market"	"0"
 					}
 					"12"
 					{
-						"item"		"Strange Filter: Fortezza (Community)"
+						"item"		"Strange Filter: Afterlife (Community)"
 						"show_market"	"0"
 					}
 					"13"
 					{
-						"item"		"Strange Filter: Penguin Peak (Community)"
+						"item"		"Strange Filter: Devilcross (Community)"
 						"show_market"	"0"
 					}
 					"14"
 					{
-						"item"		"Strange Filter: Patagonia (Community)"
-						"show_market"	"0"
-					}
-					"15"
-					{
-						"item"		"Strange Filter: Cutter (Community)"
-						"show_market"	"0"
-					}
-					"16"
-					{
-						"item"		"Strange Filter: Maul (Community)"
+						"item"		"Strange Filter: Marshlands (Community)"	
 						"show_market"	"0"
 					}
 				}
@@ -1803,6 +1790,166 @@
 		} // Background
 
 	} // EventPromo
+
+	"SafeMode"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldname"		"SafeMode"
+		"xpos"			"c-290"
+		"ypos"			"210"
+		"zpos"			"-50"
+		"wide"			"270"
+		"tall"			"190"
+		"visible"		"0"
+
+		"Background"
+		{
+			"ControlName"	"EditablePanel"
+			"fieldname"		"Background"
+			"xpos"			"0"
+			"ypos"			"20"
+			"zpos"			"0"
+			"wide"			"260"
+			"tall"			"p0.88"
+			"visible"		"1"
+			"PaintBackgroundType"	"0"
+			"proportionaltoparent"	"1"
+
+			"paintborder"	"1"
+			"border"		"MainMenuBGBorder"
+
+			"TitleLabel"
+			{
+				"ControlName"	"CExLabel"
+				"fieldName"		"TitleLabel"
+				"font"			"HudFontSmallBold"
+				"labelText"		"#MMenu_SafeMode_Title"
+				"textAlignment"	"west"
+				"xpos"			"0"
+				"ypos"			"0"
+				"wide"			"f0"
+				"tall"			"30"
+				"autoResize"	"0"
+				"pinCorner"		"0"
+				"visible"		"1"
+				"enabled"		"1"
+				"textinsetx"	"20"
+				"fgcolor_override"	"235 227 203 255"
+			}
+	
+			"SaveSettingsButton"
+			{
+				"ControlName"	"CExButton"
+				"fieldName"		"SaveSettingsButton"
+				"xpos"			"p0.02"
+				"ypos"			"rs1-30"
+				"zpos"			"11"
+				"wide"			"250"
+				"tall"			"26"
+				"autoResize"	"0"
+				"pinCorner"		"3"
+				"visible"		"1"
+				"enabled"		"1"
+				"tabPosition"	"0"
+				"use_proportional_insets" "1"
+				"font"			"HudFontSmallBold"
+				"textAlignment"	"west"
+				"dulltext"		"0"
+				"brighttext"	"0"
+				"default"		"1"
+				"sound_depressed"	"UI/buttonclick.wav"
+				"sound_released"	"UI/buttonclickrelease.wav"
+				"labeltext"		"#MMenu_SafeMode_SaveSettings"
+				"proportionaltoparent"	"1"
+				"command"		"safemode_save_settings"
+				"actionsignallevel"	"3"
+			
+				"border_default"	"MainMenuButtonDefault"
+				"border_armed"		"MainMenuButtonArmed"
+				"paintbackground"	"0"
+			
+				"defaultFgColor_override" "46 43 42 255"
+				"armedFgColor_override" "235 226 202 255"
+				"depressedFgColor_override" "46 43 42 255"
+			}
+
+	
+			"LeaveSafeModeButton"
+			{
+				"ControlName"	"CExButton"
+				"fieldName"		"SubButton"
+				"xpos"			"p0.02"
+				"ypos"			"rs1-5"
+				"zpos"			"11"
+				"wide"			"250"
+				"tall"			"26"
+				"autoResize"	"0"
+				"pinCorner"		"3"
+				"visible"		"1"
+				"enabled"		"1"
+				"tabPosition"	"0"
+				"use_proportional_insets" "1"
+				"font"			"HudFontSmallBold"
+				"textAlignment"	"west"
+				"dulltext"		"0"
+				"brighttext"	"0"
+				"default"		"1"
+				"sound_depressed"	"UI/buttonclick.wav"
+				"sound_released"	"UI/buttonclickrelease.wav"
+				"labeltext"		"#MMenu_SafeMode_LeaveSafeMode"
+				"proportionaltoparent"	"1"
+				"command"		"safemode_leave"
+				"actionsignallevel"	"3"
+			
+				"border_default"	"MainMenuButtonDefault"
+				"border_armed"		"MainMenuButtonArmed"
+				"paintbackground"	"0"
+			
+				"defaultFgColor_override" "46 43 42 255"
+				"armedFgColor_override" "235 226 202 255"
+				"depressedFgColor_override" "46 43 42 255"
+			}
+
+			"Explanation"
+			{
+				"ControlName"			"Label"
+				"fieldName"				"Explanation"
+				"xpos"					"cs-0.5"
+				"ypos"					"30"
+				"zpos"					"100"
+				"wide"					"p0.92"
+				"tall"					"p0.5"
+				"textAlignment"			"north-west"
+				"visible"				"1"
+				"enabled"				"1"
+				"scaleImage"			"1"
+				"proportionaltoparent"	"1"
+				"wrap"					"1"
+				"labelText"				"#MMenu_SafeMode_Explanation"
+				"proportionaltoparent"	"1"
+				"font"					"HudFontSmallest"
+			}
+
+		} // Background
+
+		"InfoImage"
+		{
+			"ControlName"			"ImagePanel"
+			"fieldName"				"InfoImage"
+			"xpos"					"rs1-5"
+			"ypos"					"5"
+			"zpos"					"100"
+			"wide"					"40"
+			"tall"					"o1"
+			"visible"				"1"
+			"enabled"				"1"
+			"image"					"info"
+			"scaleImage"			"1"
+			"proportionaltoparent"	"1"
+			"mouseinputenabled"		"0"
+		}
+
+	} // SafeMode
 	
 	"ShowPromoCodesButton"
 	{
@@ -2842,67 +2989,6 @@
 			"angles_x"		"10"
 			"angles_y"		"130"
 			"angles_z"		"0"
-		}
-	}
-	
-	"ShowHUDOptonsButton"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"ShowHUDOptonsButton"
-		"xpos"			"r55"
-		"ypos"			"28"
-		"zpos"			"1"
-		"wide"			"32"
-		"tall"			"32"
-		"autoResize"	"0"
-		"pinCorner"		"3"
-		"visible"		"1"
-		"enabled"		"1"
-
-		"ShowHUDOptonsButton2_SB"
-		{
-			"ControlName"	"CExImageButton"
-			"fieldName"		"ShowHUDOptonsButton2_SB"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"1"
-			"wide"			"32"
-			"tall"			"32"
-			"autoResize"	"0"
-			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
-			"labelText"		""
-			"font"			"HudFontSmallestBold"
-			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"default"		"1"
-
-			"actionsignallevel" "2"
-			"Command"		"engine toggle cl_mainmenu_safemode; mat_queue_mode 0"
-
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
-			"paintbackground" "0"
-			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
-
-			"SubImage"
-			{
-				"ControlName"	"ImagePanel"
-				"fieldName"		"SubImage"
-				"xpos"			"0"
-				"ypos"			"0"
-				"zpos"			"1"
-				"wide"			"32"
-				"tall"			"32"
-				"visible"		"1"
-				"enabled"		"1"
-				"image"			"../vgui/replay/thumbnails/button_hud"
-				"scaleImage"	"1"
-			}
 		}
 	}
 }

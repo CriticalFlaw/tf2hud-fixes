@@ -1951,7 +1951,6 @@
 
 	} // SafeMode
 	
-
 	"ShowPromoCodesButton"
 	{
 		"ControlName"	"CExImageButton"
