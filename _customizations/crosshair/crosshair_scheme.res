@@ -172,7 +172,7 @@
 	{
 		"100"
 		{
-			"font"	"resource/ui/#customizations/crosshair/crosshairs.ttf"
+			"font"	"resource/crosshairs.ttf"
 			"name"	"TF2Crosshairs"
 		}
 	}

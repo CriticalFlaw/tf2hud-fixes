@@ -1,1 +1,1 @@
-#base "../../../../../../cfg/hud_transparent_viewmodels.txt"
+#base "../../../../../../cfg/hudfixes/hud_transparent_viewmodels.txt"

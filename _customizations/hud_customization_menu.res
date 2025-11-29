@@ -11,10 +11,53 @@
 		"zpos"						"50"
 		"visible"					"1"
 		"enabled"					"1"
-		"proportionaltoparent"		"1"
+		"proportionaltoparent"		"0"
 		"paintbackground"			"0"
-		"border"					"ReplayDefaultBorder"
+		"border"					"NoBorder"
 		
+		"Background"
+		{
+			"ControlName"	"EditablePanel"
+			"fieldname"		"Background"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"-2"
+			"wide"			"f0"
+			"tall"			"f0"
+			"visible"		"1"
+			"PaintBackgroundType"	"0"
+			"proportionaltoparent"	"1"
+
+			"paintborder"	"1"
+			"border"		"MainMenuBGBorder"
+
+			"TitleLabel"
+			{
+				"visible"			"0"
+			}
+	
+			"SaveSettingsButton"
+			{
+				"visible"			"0"
+			}
+			
+			"LeaveSafeModeButton"
+			{
+				"visible"			"0"
+			}
+
+			"Explanation"
+			{
+				"visible"			"0"
+			}
+
+		} // Background
+
+		"InfoImage"
+		{
+			"visible"			"0"
+		}
+	
 		"Title"
 		{
 			"ControlName"					"CExLabel"
@@ -33,10 +76,7 @@
 			"textAlignment"					"center"
 			"textinsetx"					"0"
 			"fgcolor"						"TanLight"
-			"paintBackground"				"1"
-			"paintBackgroundtype"			"2"
-			"roundedcorners"				"3"
-			"bgcolor_override"				"Black"
+			"paintBackground"				"0"
 		}
 		
 		"CloseButton"
@@ -453,10 +493,11 @@
 		"zpos"			"1"
 		"wide"			"32"
 		"tall"			"32"
-		"autoResize"	"0"
-		"pinCorner"		"3"
+		//"autoResize"	"0"
+		//"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
+		//"proportionaltoparent"		"0"
 
 		"ShowHUDOptonsButton2_SB"
 		{
