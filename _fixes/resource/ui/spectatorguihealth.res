@@ -1,3 +1,5 @@
+// Updated to match the updated spectator view
+
 "Resource/UI/SpectatorGUIHealth.res"
 {
 	"PlayerStatusHealthValue"

@@ -638,7 +638,7 @@ Scheme
 //			}
 		}
 
-		"CloseCaption"
+		"CloseCaption_Normal"
 		{
 			"1"
 			{
