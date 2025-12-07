@@ -1,13 +1,13 @@
-// Fixed tooltip being cutoff when hovering over a low row item
-// Updated to use high-quality item images
-// Added shortcut keys for navigating pages (A & D)
-// Adjusted page buttons placements
+// Added shortcut keys for page navigation (A & D)
+// Fix tooltip being cutoff when hovering over a bottom row item
+// Use higher quality item images
+// Adjusted buttons placements
 
 "Resource/UI/ItemSelectionPanel.res"
 {
 	"ItemSelectionPanel"
 	{
-		"tall"			"400"
+		"tall"				"400"
 		
 		"modelpanels_kv"
 		{
@@ -16,23 +16,20 @@
 				"inventory_image_type"	"1"
 			}
 		}
-	}				
+	}
 	"BottomLine"
 	{
-		"ypos"			"320"
-	}				
-		
+		"ypos"				"320"
+	}
 	"ItemSlotLabel"
 	{
-		"textAlignment"	"east"
-		"xpos"			"c-190"
-	}	
-	
+		"textAlignment"		"east"
+		"xpos"				"c-190"
+	}
 	"ShowBackpack"
 	{
-		"ypos"			"331"
+		"ypos"				"331"
 	}
-
 	"PrevPageShortcut"
 	{
 		"ControlName"		"CExButton"
@@ -44,7 +41,6 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
-
 	"NextPageShortcut"
 	{
 		"ControlName"		"CExButton"

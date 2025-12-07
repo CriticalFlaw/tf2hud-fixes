@@ -1,5 +1,5 @@
-// Expanded the player list in the match HUD
-// Updated the respawn timer
+// Expanded the match HUD player list
+// Updated the respawn timer for each player panel
 
 "Resource/UI/HudMatchStatus.res"
 {
@@ -16,11 +16,10 @@
 		{
 			"respawntime"
 			{
-				"font"			"HudFontSmall"
+				"font"		"HudFontSmall"
 			}
 		}
 	}
-
 	"BlueTeamPanel"
 	{
 		"BluePlayerList"
@@ -31,7 +30,7 @@
 
 			if_large
 			{
-				"tall"			"312"
+				"tall"		"312"
 			}
 		}
 		"BluePlayerListBG"
@@ -39,7 +38,6 @@
 			"tall"			"176"
 		}
 	}
-
 	"RedTeamPanel"
 	{
 		"RedPlayerList"
@@ -50,7 +48,7 @@
 
 			if_large
 			{
-				"tall"			"312"
+				"tall"		"312"
 			}
 		}
 		"RedPlayerListBG"

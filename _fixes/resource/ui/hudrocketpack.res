@@ -1,5 +1,4 @@
-// Reduced the size of the Thermal Thruster icon to eliminate overlaps
-
+// Fix Thermal Thruster icon overlap with other elements in minmode
 #base "HudItemEffectMeter.res"
 
 "Resource/UI/HudRocketPack.res"

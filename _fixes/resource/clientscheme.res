@@ -12,7 +12,8 @@ Scheme
 				"tall"		"15"
 				"weight"	"500"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
+	}
 }

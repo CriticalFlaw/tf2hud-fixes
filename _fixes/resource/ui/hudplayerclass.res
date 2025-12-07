@@ -1,19 +1,18 @@
-// Fixed clipping for 2D and 3D player images
+// Fix 2D and 3D player model clipping with bounding box
 
 "Resource/UI/HudPlayerClass.res"
 {
 	"PlayerStatusClassImage"
 	{
-		"ypos"			"rs1.2"	[$WIN32]
+		"ypos"			"rs1.2"		[$WIN32]
 	}
 	"PlayerStatusSpyImage"
 	{
-		"ypos"			"rs1.27" [$WIN32]		
-	}	
+		"ypos"			"rs1.27"	[$WIN32]
+	}
 	"classmodelpanel"
 	{
-		"ypos"				"rs1.075"	[$WIN32]
-		"fov"				"0"
-		}
+		"ypos"			"rs1.075"	[$WIN32]
+		"fov"			"0"
 	}
 }

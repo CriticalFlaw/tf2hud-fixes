@@ -1,6 +1,5 @@
-// Added minmode variant
-// TODO
-//#base "HudObjectivePlayerDestruction.res"
+// TODO: Added minmode support
+#base "HudObjectivePlayerDestruction.res"
 
 "Resource/UI/HudObjectiveArenaHybrid.res"
 {
@@ -12,74 +11,67 @@
 			"xpos_minmode"			"c-110"
 			"ypos_minmode"			"r55"
 			"wide"					"280"
-		
-			"ScoreOutline" //the background image used for the bulk of the HUD
+
+			"ScoreOutline"
 			{
-				"wide_minmode"			"224"
-				"tall_minmode"			"64"
+				"wide_minmode"		"224"
+				"tall_minmode"		"64"
 			}
-			
-			"ScoreOutlineBlue" //the background image used for the backdrop of blue team
+			"ScoreOutlineBlue"
 			{
-				"wide_minmode"	"224"
-				"tall_minmode"	"64"
+				"wide_minmode"		"224"
+				"tall_minmode"		"64"
 			}
-			
-			"ScoreOutlineRed" //the background image used for the backdrop of red team
+			"ScoreOutlineRed"
 			{
-				"wide_minmode"			"224"
-				"tall_minmode"			"64"
+				"wide_minmode"		"224"
+				"tall_minmode"		"64"
 			}
-			
-			"TrophyIcon" //the trophy image
+			"TrophyIcon"
 			{
-				"xpos"					"90"
-				"xpos_minmode"			"60"
+				"xpos"				"90"
+				"xpos_minmode"		"60"
 			}
 		}
-
-		"BlueScoreValueContainer" //Current score for blue
+		"BlueScoreValueContainer"
 		{
-			"xpos"				"70"
+			"xpos"					"70"
 
 			"Score"
 			{
-				"xpos_minmode"	"c4"
-				"ypos_minmode"	"c-18"
-				"font"			"HudFontBig"
-				"font_minmode"	"HudFontMedium"
-			}	
-		
+				"xpos_minmode"		"c4"
+				"ypos_minmode"		"c-18"
+				"font"				"HudFontBig"
+				"font_minmode"		"HudFontMedium"
+			}
 			"ScoreShadow"
 			{
-				"xpos"			"c-25"
-				"xpos_minmode"	"c6"
-				"ypos_minmode"	"c-17"
-				"font"			"HudFontBig"
-				"font_minmode"	"HudFontMedium"
+				"xpos"				"c-25"
+				"xpos_minmode"		"c6"
+				"ypos_minmode"		"c-17"
+				"font"				"HudFontBig"
+				"font_minmode"		"HudFontMedium"
 			}
 		}
-
-		"RedScoreValueContainer" //Current score for red
+		"RedScoreValueContainer"
 		{
-			"xpos"				"r130"
+			"xpos"					"r130"
 
 			"Score"
 			{
-				"xpos_minmode"	"c-53"
-				"ypos_minmode"	"c-18"
-				"font"			"HudFontBig"
-				"font_minmode"	"HudFontMedium"
-			}	
-		
+				"xpos_minmode"		"c-53"
+				"ypos_minmode"		"c-18"
+				"font"				"HudFontBig"
+				"font_minmode"		"HudFontMedium"
+			}
 			"ScoreShadow"
 			{
-				"xpos"			"c-24"
-				"xpos_minmode"	"c-51"
-				"ypos_minmode"	"c-17"
-				"font"			"HudFontBig"
-				"font_minmode"	"HudFontMedium"
+				"xpos"				"c-24"
+				"xpos_minmode"		"c-51"
+				"ypos_minmode"		"c-17"
+				"font"				"HudFontBig"
+				"font_minmode"		"HudFontMedium"
 			}
-		}		
+		}
 	}
 }

@@ -1,6 +1,6 @@
-// Updated to display player stats on the main menu
-// Fixed the medal not displaying properly on the main menu in very low resolutions
-// Fixed medal placement on the match summary screen?
+// Updates to show player stats on the main menu
+// Fix the medal not displaying properly on the main menu in 4:3 resolutions
+// TODO: Fix medal placement on the match summary screen?
 
 "Resource/UI/PvPRankPanel.res"
 {
@@ -8,8 +8,8 @@
 	{
 		"RankModel"
 		{
-			"tall"			"80"
-			"fov"			"55"
+			"tall"		"80"
+			"fov"		"55"
 
 			if_mini
 			{
@@ -17,7 +17,6 @@
 			}
 		}
 	}
-
 	"BGPanel"
 	{
 		"tall"			"f42"
@@ -27,17 +26,14 @@
 			"xpos"			"58"
 			"wide"			"170"
 		}
-
 		"DescLine1"
 		{
 			"xpos"			"58"
 		}
-
 		"DescLine2"
 		{
 			"xpos"			"58"
 		}
-
 		"StatsContainer"
 		{
 			"xpos"			"rs1-13"
@@ -49,7 +45,6 @@
 			{
 				"tall"			"f0"
 			}
-
 			"XPBar"
 			{
 				"xpos"			"rs1"
@@ -58,23 +53,20 @@
 
 				"if_mini"
 				{
-					"xpos"		"cs-0.5"
-					"ypos"		"rs1-3"
-					"wide"		"p1"
+					"xpos"			"cs-0.5"
+					"ypos"			"rs1-3"
+					"wide"			"p1"
 				}
-
 				"CurrentXPLabel"
 				{
 					"xpos"			"s-0.0001"
 				}
-
 				"ProgressBarsContainer"
 				{
 					"xpos"			"s0.004"
 					"wide"			"p0.991"
 				}
 			}
-
 			"Stats"
 			{
 				"ypos"			"rs1.741"
@@ -82,26 +74,21 @@
 				"visible"		"1"
 				"bgcolor_override"	"0 0 0 100"
 				
-				// First column
 				"GamesLabel"
 				{
 					"ypos"			"5"
 					"font"			"HudFontSmall"
 				}
-
 				"KillsLabel"
 				{
 					"ypos"			"25"
 					"font"			"HudFontSmall"
 				}
-
 				"DeathsLabel"
 				{
 					"ypos"			"45"
 					"font"			"HudFontSmall"
 				}
-
-				// Second column
 				"DamageLabel"
 				{
 					"xpos"			"c0"
@@ -109,7 +96,6 @@
 					"wide"			"120"
 					"font"			"HudFontSmall"
 				}
-
 				"HealingLabel"
 				{
 					"xpos"			"c0"
@@ -117,7 +103,6 @@
 					"wide"			"120"
 					"font"			"HudFontSmall"
 				}
-
 				"SupportLabel"
 				{
 					"xpos"			"c0"
@@ -126,8 +111,6 @@
 					"enabled"		"0"
 					"font"			"HudFontSmall"
 				}
-
-				// Third column
 				"ScoreLabel"
 				{
 					"xpos"			"c0"

@@ -1,7 +1,7 @@
-// Added shortcut keys for navigating pages (A & D)
-// Fixed the tooltip panel breaking when viewing a rotating item
-// Visual adjusment to the page
-// Enabled high-quality item images
+// Added shortcut keys for page navigation (A & D)
+// Fix tooltip panel when viewing a skinned weapon
+// Visual adjustments to the page
+// Use higher quality item images
 
 "Resource/UI/CharInfoArmorySubPanel.res"
 {
@@ -14,12 +14,11 @@
 				"inventory_image_type"	"1"
 			}
 		}
-	}	
-	
+	}
 	"mouseoveritempanel"
 	{
-		"wide"			"200"
-		"tall"			"150"
+		"wide"				"200"
+		"tall"				"150"
 		
 		"text_center_x"		"1"
 		"model_hide"		"0"
@@ -27,28 +26,25 @@
 		"padding_height"	"15"
 		"name_only"			"1"
 		
-		"model_ypos"	"15"
-		"model_wide"	"150"
-		"model_tall"	"100"
+		"model_ypos"		"15"
+		"model_wide"		"150"
+		"model_tall"		"100"
 		
 		"model_center_x"	"1"
 		"hide_collection_panel"		"1"
 	}
-	
 	"PrevPageButton"
 	{
-		"enabled"		"0"
-	}	
-	
+		"enabled"			"0"
+	}
 	"StoreButton"
 	{
-		"xpos"			"c-295"
-		"ypos"			"290"
-		"wide"			"160"
-		"tall"			"20"
-		"font"			"HudFontSmallestBold"
+		"xpos"				"c-295"
+		"ypos"				"290"
+		"wide"				"160"
+		"tall"				"20"
+		"font"				"HudFontSmallestBold"
 	}
-
 	"PrevPageShortcut"
 	{
 		"ControlName"		"CExButton"
@@ -60,7 +56,6 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
-
 	"NextPageShortcut"
 	{
 		"ControlName"		"CExButton"

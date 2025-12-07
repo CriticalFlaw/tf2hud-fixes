@@ -1,4 +1,4 @@
-// Lower header so to not overlap the matchmaking dashboard
+// Fix page header overlapping the matchmaking dashboard
 
 "Resource/UI/TestItemRoot.res"
 {

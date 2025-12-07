@@ -1,5 +1,5 @@
-// Use higher-quality item images
-// Adjusted item name label
+// Use higher quality item images
+// Adjusted item name placement
 
 "Resource/UI/ItemModelPanel.res"
 {
@@ -7,12 +7,11 @@
 	{
 		"itemmodelpanel"
 		{
-			"inventory_image_type"  "1"
+			"inventory_image_type"	"1"
 		}
-	
 		"namelabel"
 		{
-			"textAlignment"	"center"
+			"textAlignment"			"center"
 		}
 	}
 }

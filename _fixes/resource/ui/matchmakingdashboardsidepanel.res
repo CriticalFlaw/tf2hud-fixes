@@ -1,4 +1,4 @@
-// Fixed the close button being misaligned when matchmaking dashboard is open
+// Fix close button being misaligned when the matchmaking dashboard is open
 
 "Resource/UI/MatchMakingDashboardSidePanel.res"
 {

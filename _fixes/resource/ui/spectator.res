@@ -1,5 +1,5 @@
-// Fixed black bars appearing for skinned items
-// Updated the respawn view
+// Fix black bars appearing when inspecting skinned weapons
+// Visual adjustments to the the respawn view
 
 "Resource/UI/Spectator.res"
 {
@@ -9,9 +9,9 @@
 	}
 	"bottombarblank"
 	{
-		"xpos"			"9999"	
+		"xpos"			"9999"
 		"ypos_minmode"	"r57"
-		"tall_minmode"	"70"	[$WIN32]		// this needs to match the size of BottomBar
+		"tall_minmode"	"70"	[$WIN32]
 		"visible"		"0"
 	}
 	"ReinforcementsLabel"
@@ -20,19 +20,19 @@
 		"ypos"			"40"	[$WIN32]
 		"ypos_minmode"	"40"	[$WIN32]
 		"wide_minmode"	"600"	[$WIN32]
-		"textAlignment_minmode"		"center"
+		"textAlignment_minmode"	"center"
 	}
 	"ClassOrTeamLabel"
 	{
 		"xpos"			"0"
-		"ypos"			"44"	
+		"ypos"			"44"
 		"wide"			"120"
-		"textAlignment"		"east"
+		"textAlignment"	"east"
 	}
 	"itempanel"
 	{
-		"model_ypos"		"20"
-		"model_wide"		"80"
-		"model_tall"		"50"
-	}		
+		"model_ypos"	"20"
+		"model_wide"	"80"
+		"model_tall"	"50"
+	}
 }

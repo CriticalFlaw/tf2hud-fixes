@@ -1,4 +1,4 @@
-// Fixed black bars appearing on skinned weapons
+// Fix black bars appearing when inspecting skinned weapons
 
 "Resource/UI/FreezePanel_Basic.res"
 {

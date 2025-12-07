@@ -6,9 +6,8 @@
 	{
 		"zpos"			"4"
 	}
-
 	"ObjectivesInfoImage"
 	{
 		"zpos"			"5"
 	}
-} // QuestContainer
+}

@@ -1,8 +1,7 @@
-// Fixed the Mann-Up Victory panel not displaying item descriptions in full
+// Fix reward tooltip not displaying fully on the Mann-Up Victory screen
 
 "Resource/UI/MvMVictoryMannUpPanel.res"
-{			
-	//Mouse over panel
+{
 	"mouseoveritempanel"
 	{
 		"wide"			"300"

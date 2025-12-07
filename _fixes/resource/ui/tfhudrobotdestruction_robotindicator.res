@@ -1,4 +1,4 @@
-// Added minmode variant
+// Added minmode support
 
 "Resource/UI/TFHudRobotDestruction_RobotIndicator.res"
 {

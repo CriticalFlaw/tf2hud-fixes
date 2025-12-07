@@ -1,13 +1,13 @@
-// Fixed player model not displaying properly on the scoreboard after a refresh
-// Fixed player model (both 2D and 3D) clipping the scoreboard
-// Improvements to the Mann vs. Machine scoreboard
+// Fix 3d player model not displaying properly after a HUD reload
+// Fix player model clipping through the scoreboard border
+// Adjustments to the Mann vs. Machine scoreboard
 
 "Resource/UI/Scoreboard.res"
 {
 	"scores"
 	{
-		"ping_width"		"19"
-	}							
+		"ping_width"	"19"
+	}
 	"RedTeamPlayerCount"
 	{
 		if_mvm
@@ -15,7 +15,7 @@
 			"xpos"			"415"
 			"ypos"			"265"
 		}
-	}				
+	}
 	"BluePlayerList"
 	{
 		"linespacing"	"17"
@@ -28,7 +28,7 @@
 	{
 		if_mvm
 		{
-			"ypos"		"357"
+			"ypos"			"357"
 		}
 	}
 	"ClassImage"
@@ -49,11 +49,11 @@
 		{
 			"ypos"			"rs1.140"
 		}
-				
 		"model"
 		{
-			"origin_z" "-100"
+			"origin_z"		"-100"
 			
 			"customclassdata" { }
-
+		}
+	}
 }

@@ -1,6 +1,6 @@
-// Added shortcut keys
-// Fixed the header title appearing cutoff when trying to apply an item
-// Adjusted element placement
+// Added shortcut keys for page navigation (A and D)
+// Fix page header when trying to apply an item
+// Visual adjustments to the page
 
 "Resource/UI/FullLoadoutPanel.res"
 {
@@ -16,34 +16,27 @@
 		"tall"			"50"
 		"wrap"			"1"
 	}
-	
 	"ShowBaseItemsCheckbox"
 	{
 		"xpos"			"c-88"
 	}
-
 	"NameFilterLabel"
 	{
 		"tall"			"15"
 	}
-
 	"NameFilterTextEntry"
 	{
-		"wide"		"120"
-	}		
-	
+		"wide"			"120"
+	}
 	"CancelApplyToolButton"
 	{
 		"xpos"			"c-295"
-	}		
-
-
+	}
 	"ShowExplanationsButton"
 	{
 		"xpos"			"c265"
 		"ypos"			"15"
 	}
-	
 	"PrevPageShortcut"
 	{
 		"ControlName"		"CExButton"
@@ -55,7 +48,6 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
-
 	"NextPageShortcut"
 	{
 		"ControlName"		"CExButton"

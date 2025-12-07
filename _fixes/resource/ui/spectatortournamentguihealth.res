@@ -2,9 +2,9 @@
 
 "Resource/UI/SpectatorTournamentGUIHealth.res"
 {
-	 "PlayerStatusHealthValue"
+	"PlayerStatusHealthValue"
 	{
-		"wide_minmode"	"20"
-		"tall_minmode"	"10"
+		"wide_minmode"		"20"
+		"tall_minmode"		"10"
 	}
 }

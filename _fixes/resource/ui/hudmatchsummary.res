@@ -1,5 +1,4 @@
-// Fixed the final team score overlapping with the matchmaking dashboard
-// Adjustments to fix overlaps
+// Fix overlaps with the matchmaking dashboard
 
 "Resource/UI/HudMatchSummary.res"
 {
@@ -22,7 +21,6 @@
 					{
 						"ypos"			"68"
 					}
-
 				}
 				"BlueTeamScoreDropshadow"
 				{
@@ -72,23 +70,21 @@
 					{
 						"ypos"			"102"
 					}
-
 					"BluePlayerList"
 					{
 						"tall"			"179"
 						"linespacing"	"24"
-						
 						"horiz_inset"	"4"
 
 						if_large
 						{
-							"tall"			"310"
+							"tall"		"310"
 						}
 					}
 				}
 				"BluePlayerListBG"
 				{
-					"tall"			"206"
+					"tall"				"206"
 
 					if_large
 					{
@@ -105,7 +101,7 @@
 					{
 						"ypos"			"64"
 					}
-				}						
+				}
 				"RedTeamScore"
 				{
 					if_large
@@ -161,23 +157,22 @@
 					{
 						"ypos"			"102"
 					}
-			
+					
 					"RedPlayerList"
 					{
 						"tall"			"179"
 						"linespacing"	"24"
-						
 						"horiz_inset"	"4"
 
 						if_large
 						{
-							"tall"			"310"
+							"tall"		"310"
 						}
 					}
 				}
 				"RedPlayerListBG"
 				{
-					"tall"			"206"
+					"tall"				"206"
 
 					if_large
 					{

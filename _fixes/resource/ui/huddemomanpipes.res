@@ -1,24 +1,22 @@
-// Adjustments to the demoman pipes counter
+// Visual adjusments to Demoman pipes counter in minmode
 
 "Resource/UI/HudDemomanPipes.res"
 {
 	"ChargeLabel"
 	{
-		"xpos_minmode"			"0"
-		"ypos_minmode"			"7"
-		"wide_minmode"			"50"
-		"tall_minmode"			"6"
-	}				
-		
+		"xpos_minmode"		"0"
+		"ypos_minmode"		"7"
+		"wide_minmode"		"50"
+		"tall_minmode"		"6"
+	}
 	"PipesPresentPanel"
 	{
 		"PipeIcon"
 		{
 			"xpos_minmode"	"10"
 			"wide_minmode"	"18"
-			"tall_minmode"	"18"	
-		}	
-		
+			"tall_minmode"	"18"
+		}
 		"NumPipesLabel"
 		{
 			"xpos_minmode"	"35"
@@ -28,9 +26,8 @@
 		{
 			"xpos_minmode"	"37"
 			"font_minmode"	"HudFontMedium"
-		}		
+		}
 	}
-	
 	"NoPipesPresentPanel"
 	{
 		"PipeIcon"
@@ -39,7 +36,6 @@
 			"wide_minmode"	"18"
 			"tall_minmode"	"18"
 		}
-
 		"NumPipesLabel"
 		{
 			"xpos_minmode"	"35"
@@ -49,6 +45,6 @@
 		{
 			"xpos_minmode"	"37"
 			"font_minmode"	"HudFontMedium"
-		}			
-	}				
+		}
+	}
 }

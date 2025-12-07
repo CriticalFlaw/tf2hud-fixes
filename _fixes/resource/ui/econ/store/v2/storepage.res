@@ -9,15 +9,13 @@
 		"cart_labels_kv"
 		{
 			"textAlignment"	"center"
-			"wide"			"21"		
+			"wide"			"21"
 		}
 	}
-	
 	"ClassFilterNavPanel"
 	{
-		"wide"				"230"
+		"wide"			"230"
 	}
-	
 	"CartButton"
 	{
 		"wide"			"72"

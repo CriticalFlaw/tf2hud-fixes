@@ -1,4 +1,4 @@
-// Updated to use thematic font
+// Updated buttons to use themed font
 
 "Resource/UI/econ/QuestEditorPanel.res"
 {
@@ -8,12 +8,10 @@
 		{
 			"font"			"HudFontSmallest"
 		}
-
 		"SeedTextEntry"
 		{
 			"font"			"HudFontSmallest"
 		}
-
 		"MarketButton"
 		{
 			"font"			"HudFontSmallest"

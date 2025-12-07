@@ -1,4 +1,4 @@
-// Updated the Replay page to match other main menu screens
+// Update the Replay page to match other main menu pages
 
 "Resource/UI/replaybrowser/mainpanel.res"
 {
@@ -6,41 +6,38 @@
 	{
 		"titletextinsetY"	"0"
 	}
-	
 	"BackgroundHeader"
 	{
 		"tall"			"120"
 		"image"			"loadout_header"
-	}				
+	}
 	"BackgroundFooter"
 	{
 		"zpos"			"1"
 		"image"			"loadout_bottom_gradient"
-	}				
+	}
 	"FooterLine"
 	{
 		"ypos"			"420"
 		"zpos"			"2"
 		"image"			"loadout_solid_line"
-	}				
-	
+	}
 	"Sheet"
 	{
 		"tabheight"		"20"
-		"yoffset"	"14"			
+		"yoffset"		"14"
 		
 		"tabskv"
 		{
-			"font"				"HudFontMediumSmallBold"
+			"font"						"HudFontMediumSmallBold"
 			"defaultBgColor_override"	"46 43 42 255"
 		}
 	}
-	
 	"BackButton"
 	{
 		"zpos"			"2"
 		"labelText"		"#TF_BackCarat"
 		"font"			"HudFontSmallBold"
 		"default"		"0"
-	}	
+	}
 }

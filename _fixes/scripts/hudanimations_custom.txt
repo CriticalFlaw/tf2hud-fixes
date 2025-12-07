@@ -1,8 +1,8 @@
 // Health Bonus Pulse
 event HudHealthBonusPulse
 {
-	Animate	PlayerStatusHealthBonusImage 	Alpha		"255"			Linear 0.0 0.2
-	Animate	PlayerStatusHealthBonusImage 	Alpha		"0"				Linear 0.2 0.4
+	Animate	PlayerStatusHealthBonusImage	Alpha		"255"			Linear 0.0 0.2
+	Animate	PlayerStatusHealthBonusImage	Alpha		"0"				Linear 0.2 0.4
 	
 	Animate	PlayerHealthValue			FgColor		"0 220 127 255" Accel 0.0 0.0
 
@@ -22,8 +22,8 @@ event HudHealthBonusPulseStop
 // Health Dying Pulse
 event HudHealthDyingPulse
 {
-	Animate	PlayerStatusHealthBonusImage 	Alpha		"255"			Linear 0.0 0.075
-	Animate	PlayerStatusHealthBonusImage 	Alpha		"0"				Linear 0.125 0.075
+	Animate	PlayerStatusHealthBonusImage	Alpha		"255"			Linear 0.0 0.075
+	Animate	PlayerStatusHealthBonusImage	Alpha		"0"				Linear 0.125 0.075
 	
 	Animate	PlayerHealthValue			FgColor		"BrightYellow"	Accel 0.0 0.0
 	
@@ -39,6 +39,7 @@ event HudHealthDyingPulseStop
 }
 
 //==================================================================================
+// Fix Tournament Setup panel overlapping lowered Tournament panel
 
 event HudTournamentSetupPanelOpen
 {
@@ -53,7 +54,7 @@ event HudTournamentSetupPanelClose
 }
 
 //==================================================================================
-
+// HUD Crosshair 
 event DamagedPlayer
 {
 	StopEvent HitMarker			0.0
@@ -62,11 +63,12 @@ event DamagedPlayer
 
 event HitMarker
 {
-	Animate CustomCrosshair		FgColor     "Hitmarker"		Linear 	0.0 	0.00001
-	Animate CustomCrosshair		FgColor     "Crosshair"		Linear 	0.10 	0.10001
+	Animate CustomCrosshair		FgColor		"Hitmarker"		Linear 	0.0 	0.00001
+	Animate CustomCrosshair		FgColor		"Crosshair"		Linear 	0.10 	0.10001
 }
 
 //==================================================================================
+// Fix Snapshop and Replay reminders overlapping the match HUD
 
 event HudSnapShotReminderIn
 {
@@ -87,6 +89,7 @@ event HudReplayReminderIn2	// Puts the panel below the snapshot panel
 }
 
 //==================================================================================
+// Updated respawn timer on the match HUD
 
 event TeamStatus_PlayerDead
 {
@@ -99,6 +102,7 @@ event TeamStatus_PlayerAlive
 }
 
 //==================================================================================
+// Fix player destruction score not returning to intended position after incrementing
 
-event RDPositiveScorePulse { }
-event RDNegativeScorePulse { }
+event RDPositiveScorePulse	{ }
+event RDNegativeScorePulse	{ }

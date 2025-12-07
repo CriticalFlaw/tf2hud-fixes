@@ -6,7 +6,7 @@
 	{
 		"itemmodelpanel"
 		{
-			"use_item_rendertarget" "1"
+			"use_item_rendertarget"	"1"
 		}
 	}
 }

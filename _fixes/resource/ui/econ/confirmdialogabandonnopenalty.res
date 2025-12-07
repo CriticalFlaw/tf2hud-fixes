@@ -5,5 +5,5 @@
 	"ExplanationLabel"
 	{
 		"wide"			"223"
-	}			
+	}
 }

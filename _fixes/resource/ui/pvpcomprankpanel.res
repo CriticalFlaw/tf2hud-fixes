@@ -1,5 +1,5 @@
-// TODO - Fixed medal placement in comp match summary?
-//#base "PvPRankPanel.res"
+// TODO: Fix medal placement in comp match summary?
+#base "PvPRankPanel.res"
 
 "Resource/UI/PvPRankPanel.res"
 {

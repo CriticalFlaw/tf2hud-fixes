@@ -1,6 +1,6 @@
-// Restore the passive attributes text
+// Restore passive attributes text
 // Enable player model manipulation
-// Use high-quality item images
+// Use higher quality item images
 
 "Resource/UI/FullLoadoutPanel.res"
 {
@@ -13,25 +13,21 @@
 				"inventory_image_type"	"1"
 			}
 		}
-	}			
-	
+	}
 	"classmodelpanel"
 	{
-		"allow_manip"		"1"
+		"allow_manip"	"1"
 	}
-	
 	"PassiveAttribsLabel"
 	{
 		"visible"		"1"
 	}
-
 	"CharacterLoadoutButton"
 	{
 		"xpos"			"c-166"
 		"ypos"			"c-180"
 		"pinCorner"		"0"
 	}
-
 	"TauntLoadoutButton"
 	{
 		"xpos"			"c-166"

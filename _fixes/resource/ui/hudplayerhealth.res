@@ -1,4 +1,4 @@
-// Moved max health value to prevent overlaps with status icons
+// Fix max health value overlapping other status icons
 
 "Resource/UI/HudPlayerHealth.res"
 {

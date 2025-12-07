@@ -8,11 +8,10 @@
 		"ypos"			"147"
 		"wide"			"135"
 		"tall"			"26"
-	}			
-
+	}
 	"ConfirmButton"
 	{
 		"xpos"			"155"
 		"wide"			"135"
-	}			
+	}
 }
