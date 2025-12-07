@@ -1,4 +1,4 @@
-// TODO: Added minmode support
+// Added minmode support for Arena Hybrid (Contributed by RoseyLemonz)
 #base "HudObjectivePlayerDestruction.res"
 
 "Resource/UI/HudObjectiveArenaHybrid.res"

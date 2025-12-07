@@ -1,4 +1,4 @@
-// TODO Added minmode support
+// Added minmode support for Bumper Karts (Contributed by RoseyLemonz)
 
 "Resource/UI/HudMiniGame_Base.res"
 {

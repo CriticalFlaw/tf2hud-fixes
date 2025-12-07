@@ -1,4 +1,4 @@
-// Fix close button being misaligned when the matchmaking dashboard is open
+// Fix close button overlapping scroll bar when the matchmaking sidepanel is open (Fix by impale1)
 
 "Resource/UI/MatchMakingDashboardSidePanel.res"
 {

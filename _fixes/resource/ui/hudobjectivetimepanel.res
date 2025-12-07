@@ -1,4 +1,4 @@
-// Fix server time label placement in match HUD
+// Fix server time label overlap (Fix by Kruphixx)
 
 "Resource/UI/HudObjectiveTimePanel.res"
 {

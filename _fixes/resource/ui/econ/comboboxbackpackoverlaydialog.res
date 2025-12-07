@@ -1,4 +1,4 @@
-// TODO: Fixed item preview model not always showing?
+// Fix item preview models not always showing
 
 "Resource/UI/econ/ComboBoxBackpackOverlayDialogBase.res"
 {

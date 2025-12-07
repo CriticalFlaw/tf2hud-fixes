@@ -1,4 +1,4 @@
-// Fix Quickswitch panel items misaligning after re-opening
+// Fix Quickswitch panel items misaligning after re-opening (Fix by Marxvee)
 
 "Resource/UI/ItemQuickSwitch.res"
 {

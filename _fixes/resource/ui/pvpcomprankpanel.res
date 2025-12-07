@@ -1,4 +1,4 @@
-// TODO: Fix medal placement in comp match summary?
+// Fix comp medal being too small on the competitive post-match screen (Fix by Kruphixx)
 #base "PvPRankPanel.res"
 
 "Resource/UI/PvPRankPanel.res"

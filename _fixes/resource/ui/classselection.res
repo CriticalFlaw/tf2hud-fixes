@@ -1,7 +1,7 @@
 // Added a shortcut key to edit the loadout (E)
 // Fix Scout and Soldier labels not highlighting
 // Enable player model rotation
-// Improved player model lighting
+// Improved player model lighting (Fix by DistantPeak)
 
 "Resource/UI/ClassSelection.res"
 {

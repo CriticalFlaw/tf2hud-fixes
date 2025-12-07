@@ -1,6 +1,6 @@
 // Show player stats, replacing rotating ads
 // Show the customization menu button
-// Adjustment button alignment
+// Adjustment button alignment (Contributed by Sloofy & Kruphixx)
 // Fix Show Promo button overlapping MOTD panel
 // Fix incorrect zpos for FooterLine
 

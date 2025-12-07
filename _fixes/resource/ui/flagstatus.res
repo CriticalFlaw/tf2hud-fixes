@@ -1,4 +1,4 @@
-// Added minmode support
+// Added minmode support for Capture the Flag
 
 "Resource/UI/FlagStatus.res"
 {

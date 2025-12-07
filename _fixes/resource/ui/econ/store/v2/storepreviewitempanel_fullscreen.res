@@ -1,4 +1,4 @@
-// Fixed placement of the zoom button when previewing items
+// Fix placement of the zoom button when previewing items (Fix by impale1)
 
 "Resource/UI/StorePreviewItemPanel.res"
 {

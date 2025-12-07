@@ -1,4 +1,4 @@
-// Various fixes to Mann Co. Store pages
+// Fix preview panel item description overlapping with scrollbar (Fix by impale1)
 
 "Resource/UI/StorePreviewItemPanel.res"
 {

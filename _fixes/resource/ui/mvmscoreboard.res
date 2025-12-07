@@ -1,4 +1,4 @@
-// TODO: Fix MVM scoreboard to accommodate large waves
+// Fix to accommodate large waves and bigger player teams (Fix by mtxfellen & impale1)
 
 "Resource/UI/MvMScoreboard.res"
 {

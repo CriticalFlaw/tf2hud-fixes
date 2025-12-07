@@ -1,4 +1,4 @@
-// Various fixes to Mann Co. Store pages
+// Fix "SupportCommunityMapMakersLabel" being off-screen in 4:3 aspect ratio (Fix by impale1)
 
 "Resource/UI/StorePanel.res"
 {

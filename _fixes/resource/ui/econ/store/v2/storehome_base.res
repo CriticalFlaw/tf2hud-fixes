@@ -1,4 +1,4 @@
-// Various fixes to Mann Co. Store pages
+// Increased number of cart model panels (Contributed by impale1)
 
 "Resource/UI/StoreHome_Base.res"
 {

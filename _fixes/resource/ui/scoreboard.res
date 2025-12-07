@@ -1,5 +1,5 @@
-// Fix 3d player model not displaying properly after a HUD reload
-// Fix player model clipping through the scoreboard border
+// Fix 3D player model not displaying properly after a HUD reload
+// Fix player model clipping through the scoreboard border (Fix by impale1)
 // Adjustments to the Mann vs. Machine scoreboard
 
 "Resource/UI/Scoreboard.res"

@@ -1,4 +1,5 @@
 // Fix black bars appearing when inspecting skinned weapons
+// Fix Arena Mode respawn label overlapping Saxton Hale's healthbar
 // Visual adjustments to the the respawn view
 
 "Resource/UI/Spectator.res"

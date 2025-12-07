@@ -1,4 +1,4 @@
-// Adjustments to the source-engine panels
+// Visual adjustments to source-engine panels (Contributed by Kruphixx)
 
 Scheme
 {

@@ -1,4 +1,4 @@
-// Fix Arena Mode control point label in minmode
+// Fix Arena Mode control point label in minmode (Fix by impale1)
 
 "Resource/UI/HudArenaCapPointCountdown.res"
 {

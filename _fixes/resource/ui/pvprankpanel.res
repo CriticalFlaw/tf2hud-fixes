@@ -1,6 +1,5 @@
-// Updates to show player stats on the main menu
+// Show player stats on the main menu
 // Fix the medal not displaying properly on the main menu in 4:3 resolutions
-// TODO: Fix medal placement on the match summary screen?
 
 "Resource/UI/PvPRankPanel.res"
 {

@@ -1,7 +1,7 @@
 // Added shortcut keys for page navigation (A & D)
-// Fix tooltip being cutoff when hovering over a bottom row item
+// Fix tooltip being cutoff when hovering over a bottom row item (Fix by FlaminSarge)
 // Use higher quality item images
-// Adjusted buttons placements
+// Adjusted buttons placements (Contributed by Kruphixx)
 
 "Resource/UI/ItemSelectionPanel.res"
 {

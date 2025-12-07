@@ -1,4 +1,4 @@
-// TODO: Fixed skull icon position in minmode
+// Added minmode support for PASS Time (Contributed by RoseyLemonz)
 #base "HudMiniGame_Soccer.res"
 
 "Resource/UI/HudMiniGame_SuddenDeath.res"

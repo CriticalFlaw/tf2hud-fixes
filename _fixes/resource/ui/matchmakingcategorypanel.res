@@ -1,4 +1,4 @@
-// TODO
+// Fix 'View Maps' text overlapping the dropdown arrow (Fix by RoseyLemonz)
 
 "Resource/UI/MatchmakingCategoryPanel.res"
 {

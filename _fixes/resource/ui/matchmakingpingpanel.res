@@ -1,4 +1,4 @@
-// Fix to hide the unclickable close button when ping setting panel is open
+// Fix to hide the unclickable close button when the ping panel is open (Fix by impale1)
 #base "MatchMakingDashboardSidePanel.res"
 
 "Resource/UI/MatchMakingPingPanel.res"

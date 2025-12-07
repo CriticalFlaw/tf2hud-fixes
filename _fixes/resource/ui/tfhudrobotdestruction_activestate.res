@@ -1,4 +1,4 @@
-// Added minmode support
+// Added minmode support for Robot Destruction (Contributed by RoseyLemonz)
 
 "Resource/UI/TFHudRobotDestruction_RobotIndicator.res"
 {

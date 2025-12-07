@@ -1,5 +1,4 @@
-// Added minmode support
-// TODO: Fixes for when there are multiple payload tracks
+// Added minmode support for Payload Race (Contributed by Azkuzku & RoseyLemonz)
 
 "Resource/UI/ObjectiveStatusEscort.res"
 {

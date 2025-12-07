@@ -1,4 +1,4 @@
-// Added minmode support
+// Added minmode support for PASS Time (Contributed by RoseyLemonz)
 
 "Resource/UI/HudPasstimeBallStatus.res"
 {

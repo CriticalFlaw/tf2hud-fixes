@@ -1,4 +1,4 @@
-// Addded minmode support
+// Added minmode support for Player Destruction
 
 "Resource/UI/HudObjectivePlayerDestruction.res"
 {

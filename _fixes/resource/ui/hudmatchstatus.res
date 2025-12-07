@@ -1,5 +1,6 @@
-// Expanded the match HUD player list
-// Updated the respawn timer for each player panel
+// Expanded the player list on the pre-match screen (Contributed by impale1)
+// Fix match HUD background persisting after match is over
+// Update look of the respawn timer for each player panel
 
 "Resource/UI/HudMatchStatus.res"
 {

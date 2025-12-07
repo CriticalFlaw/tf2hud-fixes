@@ -1,4 +1,4 @@
-// Various fixes to Mann Co. Store pages
+// Fix quantity label cutoffs (Fix by impale1)
 
 "Resource/UI/StoreViewCartPanel.res"
 {
