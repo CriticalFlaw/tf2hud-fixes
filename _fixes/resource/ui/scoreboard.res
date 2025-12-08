@@ -1,36 +1,8 @@
 // Fix 3D player model not displaying properly after a HUD reload
 // Fix player model clipping through the scoreboard border (Fix by impale1)
-// Adjustments to the Mann vs. Machine scoreboard
 
 "Resource/UI/Scoreboard.res"
 {
-	"scores"
-	{
-		"ping_width"	"19"
-	}
-	"RedTeamPlayerCount"
-	{
-		if_mvm
-		{
-			"xpos"			"415"
-			"ypos"			"265"
-		}
-	}
-	"BluePlayerList"
-	{
-		"linespacing"	"17"
-	}
-	"RedPlayerList"
-	{
-		"linespacing"	"17"
-	}
-	"Spectators"
-	{
-		if_mvm
-		{
-			"ypos"			"357"
-		}
-	}
 	"ClassImage"
 	{
 		"ypos"			"rs1.392"
