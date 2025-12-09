@@ -99,7 +99,7 @@
 						"font"								"ItemFontNameSmallest"
 						"textAlignment"						"center"
 						"font"								""
-						"command"							"engine hud_crosshair_on"
+						"command"							"engine hud_xhair_on"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -127,7 +127,7 @@
 						"font"								"ItemFontNameSmallest"
 						"textAlignment"						"center"
 						"font"								""
-						"command"							"engine hud_crosshair_off"
+						"command"							"engine hud_xhair_off"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -198,7 +198,7 @@
 						"labelText"							"!"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_1"
+						"command"							"engine hud_xhair_style_1"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 					}
@@ -217,7 +217,7 @@
 						"labelText"							"#"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_2"
+						"command"							"engine hud_xhair_style_2"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -240,7 +240,7 @@
 						"labelText"							"$"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_3"
+						"command"							"engine hud_xhair_style_3"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 	
@@ -263,7 +263,7 @@
 						"labelText"							"%"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_4"
+						"command"							"engine hud_xhair_style_4"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -286,7 +286,7 @@
 						"labelText"							"'"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_5"
+						"command"							"engine hud_xhair_style_5"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -309,7 +309,7 @@
 						"labelText"							"("
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_6"
+						"command"							"engine hud_xhair_style_6"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -332,7 +332,7 @@
 						"labelText"							")"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_7"
+						"command"							"engine hud_xhair_style_7"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -355,7 +355,7 @@
 						"labelText"							"*"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_8"
+						"command"							"engine hud_xhair_style_8"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -378,7 +378,7 @@
 						"labelText"							"+"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_9"
+						"command"							"engine hud_xhair_style_9"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -401,7 +401,7 @@
 						"labelText"							","
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_10"
+						"command"							"engine hud_xhair_style_10"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -424,7 +424,7 @@
 						"labelText"							"-"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_11"
+						"command"							"engine hud_xhair_style_11"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -447,7 +447,7 @@
 						"labelText"							"."
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_12"
+						"command"							"engine hud_xhair_style_12"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -470,7 +470,7 @@
 						"labelText"							"/"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_13"
+						"command"							"engine hud_xhair_style_13"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -493,7 +493,7 @@
 						"labelText"							"0"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_14"
+						"command"							"engine hud_xhair_style_14"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -516,7 +516,7 @@
 						"labelText"							"1"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_15"
+						"command"							"engine hud_xhair_style_15"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -539,7 +539,7 @@
 						"labelText"							"2"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_16"
+						"command"							"engine hud_xhair_style_16"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -562,7 +562,7 @@
 						"labelText"							"3"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_17"
+						"command"							"engine hud_xhair_style_17"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -585,7 +585,7 @@
 						"labelText"							"4"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_18"
+						"command"							"engine hud_xhair_style_18"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -608,7 +608,7 @@
 						"labelText"							"5"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_19"
+						"command"							"engine hud_xhair_style_19"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -631,7 +631,7 @@
 						"labelText"							"6"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_20"
+						"command"							"engine hud_xhair_style_20"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -654,7 +654,7 @@
 						"labelText"							"7"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_21"
+						"command"							"engine hud_xhair_style_21"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -677,7 +677,7 @@
 						"labelText"							"8"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_22"
+						"command"							"engine hud_xhair_style_22"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -700,7 +700,7 @@
 						"labelText"							"9"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_23"
+						"command"							"engine hud_xhair_style_23"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -723,7 +723,7 @@
 						"labelText"							":"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_24"
+						"command"							"engine hud_xhair_style_24"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -746,7 +746,7 @@
 						"labelText"							"<"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_25"
+						"command"							"engine hud_xhair_style_25"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -769,7 +769,7 @@
 						"labelText"							"="
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_26"
+						"command"							"engine hud_xhair_style_26"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -792,7 +792,7 @@
 						"labelText"							">"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_27"
+						"command"							"engine hud_xhair_style_27"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -815,7 +815,7 @@
 						"labelText"							"?"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_28"
+						"command"							"engine hud_xhair_style_28"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -838,7 +838,7 @@
 						"labelText"							"@"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_29"
+						"command"							"engine hud_xhair_style_29"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -861,7 +861,7 @@
 						"labelText"							"A"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_30"
+						"command"							"engine hud_xhair_style_30"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -884,7 +884,7 @@
 						"labelText"							"B"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_31"
+						"command"							"engine hud_xhair_style_31"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -907,7 +907,7 @@
 						"labelText"							"C"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_32"
+						"command"							"engine hud_xhair_style_32"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -930,7 +930,7 @@
 						"labelText"							"D"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_33"
+						"command"							"engine hud_xhair_style_33"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -953,7 +953,7 @@
 						"labelText"							"E"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_34"
+						"command"							"engine hud_xhair_style_34"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -976,7 +976,7 @@
 						"labelText"							"F"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_35"
+						"command"							"engine hud_xhair_style_35"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -999,7 +999,7 @@
 						"labelText"							"G"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_36"
+						"command"							"engine hud_xhair_style_36"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1022,7 +1022,7 @@
 						"labelText"							"H"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_37"
+						"command"							"engine hud_xhair_style_37"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1045,7 +1045,7 @@
 						"labelText"							"I"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_38"
+						"command"							"engine hud_xhair_style_38"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1068,7 +1068,7 @@
 						"labelText"							"J"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_39"
+						"command"							"engine hud_xhair_style_39"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1091,7 +1091,7 @@
 						"labelText"							"K"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_40"
+						"command"							"engine hud_xhair_style_40"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1114,7 +1114,7 @@
 						"labelText"							"L"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_41"
+						"command"							"engine hud_xhair_style_41"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1137,7 +1137,7 @@
 						"labelText"							"M"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_42"
+						"command"							"engine hud_xhair_style_42"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1160,7 +1160,7 @@
 						"labelText"							"N"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_43"
+						"command"							"engine hud_xhair_style_43"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1183,7 +1183,7 @@
 						"labelText"							"O"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_44"
+						"command"							"engine hud_xhair_style_44"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1206,7 +1206,7 @@
 						"labelText"							"P"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_45"
+						"command"							"engine hud_xhair_style_45"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1229,7 +1229,7 @@
 						"labelText"							"Q"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_46"
+						"command"							"engine hud_xhair_style_46"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1252,7 +1252,7 @@
 						"labelText"							"R"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_47"
+						"command"							"engine hud_xhair_style_47"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1275,7 +1275,7 @@
 						"labelText"							"S"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_48"
+						"command"							"engine hud_xhair_style_48"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1298,7 +1298,7 @@
 						"labelText"							"T"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_49"
+						"command"							"engine hud_xhair_style_49"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1321,7 +1321,7 @@
 						"labelText"							"U"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_50"
+						"command"							"engine hud_xhair_style_50"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1344,7 +1344,7 @@
 						"labelText"							"V"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_51"
+						"command"							"engine hud_xhair_style_51"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1367,7 +1367,7 @@
 						"labelText"							"W"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_52"
+						"command"							"engine hud_xhair_style_52"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1390,7 +1390,7 @@
 						"labelText"							"X"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_53"
+						"command"							"engine hud_xhair_style_53"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1413,7 +1413,7 @@
 						"labelText"							"Y"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_54"
+						"command"							"engine hud_xhair_style_54"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1436,7 +1436,7 @@
 						"labelText"							"Z"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_55"
+						"command"							"engine hud_xhair_style_55"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1459,7 +1459,7 @@
 						"labelText"							"["
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_56"
+						"command"							"engine hud_xhair_style_56"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1482,7 +1482,7 @@
 						"labelText"							"]"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_57"
+						"command"							"engine hud_xhair_style_57"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1505,7 +1505,7 @@
 						"labelText"							"^"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_58"
+						"command"							"engine hud_xhair_style_58"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1528,7 +1528,7 @@
 						"labelText"							"_"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_59"
+						"command"							"engine hud_xhair_style_59"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1551,7 +1551,7 @@
 						"labelText"							"`"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_60"
+						"command"							"engine hud_xhair_style_60"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1574,7 +1574,7 @@
 						"labelText"							"a"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_61"
+						"command"							"engine hud_xhair_style_61"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1597,7 +1597,7 @@
 						"labelText"							"b"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_62"
+						"command"							"engine hud_xhair_style_62"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1620,7 +1620,7 @@
 						"labelText"							"c"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_63"
+						"command"							"engine hud_xhair_style_63"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1643,7 +1643,7 @@
 						"labelText"							"d"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_64"
+						"command"							"engine hud_xhair_style_64"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1666,7 +1666,7 @@
 						"labelText"							"e"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_65"
+						"command"							"engine hud_xhair_style_65"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1689,7 +1689,7 @@
 						"labelText"							"f"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_66"
+						"command"							"engine hud_xhair_style_66"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1712,7 +1712,7 @@
 						"labelText"							"g"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_67"
+						"command"							"engine hud_xhair_style_67"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1735,7 +1735,7 @@
 						"labelText"							"h"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_68"
+						"command"							"engine hud_xhair_style_68"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1758,7 +1758,7 @@
 						"labelText"							"i"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_69"
+						"command"							"engine hud_xhair_style_69"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1781,7 +1781,7 @@
 						"labelText"							"j"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_70"
+						"command"							"engine hud_xhair_style_70"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1804,7 +1804,7 @@
 						"labelText"							"k"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_71"
+						"command"							"engine hud_xhair_style_71"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1827,7 +1827,7 @@
 						"labelText"							"l"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_72"
+						"command"							"engine hud_xhair_style_72"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1850,7 +1850,7 @@
 						"labelText"							"m"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_73"
+						"command"							"engine hud_xhair_style_73"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1873,7 +1873,7 @@
 						"labelText"							"n"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_74"
+						"command"							"engine hud_xhair_style_74"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1896,7 +1896,7 @@
 						"labelText"							"o"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_75"
+						"command"							"engine hud_xhair_style_75"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1919,7 +1919,7 @@
 						"labelText"							"p"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_76"
+						"command"							"engine hud_xhair_style_76"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1942,7 +1942,7 @@
 						"labelText"							"q"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_77"
+						"command"							"engine hud_xhair_style_77"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1965,7 +1965,7 @@
 						"labelText"							"r"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_78"
+						"command"							"engine hud_xhair_style_78"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -1988,7 +1988,7 @@
 						"labelText"							"s"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_79"
+						"command"							"engine hud_xhair_style_79"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2011,7 +2011,7 @@
 						"labelText"							"t"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_80"
+						"command"							"engine hud_xhair_style_80"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2034,7 +2034,7 @@
 						"labelText"							"u"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_81"
+						"command"							"engine hud_xhair_style_81"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2057,7 +2057,7 @@
 						"labelText"							"v"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_82"
+						"command"							"engine hud_xhair_style_82"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 						
@@ -2080,7 +2080,7 @@
 						"labelText"							"w"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_83"
+						"command"							"engine hud_xhair_style_83"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2103,7 +2103,7 @@
 						"labelText"							"x"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_84"
+						"command"							"engine hud_xhair_style_84"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2126,7 +2126,7 @@
 						"labelText"							"y"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_85"
+						"command"							"engine hud_xhair_style_85"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2149,7 +2149,7 @@
 						"labelText"							"z"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_86"
+						"command"							"engine hud_xhair_style_86"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2172,7 +2172,7 @@
 						"labelText"							"|"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_87"
+						"command"							"engine hud_xhair_style_87"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2195,7 +2195,7 @@
 						"labelText"							"~"
 						"font"								"Size-10"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_style_88"
+						"command"							"engine hud_xhair_style_88"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2262,7 +2262,7 @@
 						"labelText"							"10"
 						"font"								"ItemFontNameSmallest"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_size_10"
+						"command"							"engine hud_xhair_size_10"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 					}
@@ -2281,7 +2281,7 @@
 						"labelText"							"12"
 						"font"								"ItemFontNameSmallest"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_size_12"
+						"command"							"engine hud_xhair_size_12"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2304,7 +2304,7 @@
 						"labelText"							"14"
 						"font"								"ItemFontNameSmallest"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_size_14"
+						"command"							"engine hud_xhair_size_14"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2327,7 +2327,7 @@
 						"labelText"							"16"
 						"font"								"ItemFontNameSmallest"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_size_16"
+						"command"							"engine hud_xhair_size_16"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2350,7 +2350,7 @@
 						"labelText"							"18"
 						"font"								"ItemFontNameSmallest"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_size_18"
+						"command"							"engine hud_xhair_size_18"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2373,7 +2373,7 @@
 						"labelText"							"20"
 						"font"								"ItemFontNameSmallest"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_size_20"
+						"command"							"engine hud_xhair_size_20"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2396,7 +2396,7 @@
 						"labelText"							"22"
 						"font"								"ItemFontNameSmallest"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_size_22"
+						"command"							"engine hud_xhair_size_22"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2419,7 +2419,7 @@
 						"labelText"							"24"
 						"font"								"ItemFontNameSmallest"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_size_24"
+						"command"							"engine hud_xhair_size_24"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2442,7 +2442,7 @@
 						"labelText"							"26"
 						"font"								"ItemFontNameSmallest"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_size_26"
+						"command"							"engine hud_xhair_size_26"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2465,7 +2465,7 @@
 						"labelText"							"28"
 						"font"								"ItemFontNameSmallest"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_size_28"
+						"command"							"engine hud_xhair_size_28"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2488,7 +2488,7 @@
 						"labelText"							"30"
 						"font"								"ItemFontNameSmallest"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_size_30"
+						"command"							"engine hud_xhair_size_30"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2511,7 +2511,7 @@
 						"labelText"							"32"
 						"font"								"ItemFontNameSmallest"
 						"textAlignment"						"center"
-						"command"							"engine hud_crosshair_size_32"
+						"command"							"engine hud_xhair_size_32"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2575,7 +2575,7 @@
 						"enabled"							"1"
 						"proportionaltoparent"				"1"
 						"labelText"							""
-						"command"							"engine hud_crosshair_color_white"
+						"command"							"engine hud_xhair_color_white"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2596,7 +2596,7 @@
 						"enabled"							"1"
 						"proportionaltoparent"				"1"
 						"labelText"							""
-						"command"							"engine hud_crosshair_color_grey"
+						"command"							"engine hud_xhair_color_grey"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2621,7 +2621,7 @@
 						"enabled"							"1"
 						"proportionaltoparent"				"1"
 						"labelText"							""
-						"command"							"engine hud_crosshair_color_black"
+						"command"							"engine hud_xhair_color_black"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2646,7 +2646,7 @@
 						"enabled"							"1"
 						"proportionaltoparent"				"1"
 						"labelText"							""
-						"command"							"engine hud_crosshair_color_reddark"
+						"command"							"engine hud_xhair_color_reddark"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2671,7 +2671,7 @@
 						"enabled"							"1"
 						"proportionaltoparent"				"1"
 						"labelText"							""
-						"command"							"engine hud_crosshair_color_red"
+						"command"							"engine hud_xhair_color_red"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2696,7 +2696,7 @@
 						"enabled"							"1"
 						"proportionaltoparent"				"1"
 						"labelText"							""
-						"command"							"engine hud_crosshair_color_orange"
+						"command"							"engine hud_xhair_color_orange"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2721,7 +2721,7 @@
 						"enabled"							"1"
 						"proportionaltoparent"				"1"
 						"labelText"							""
-						"command"							"engine hud_crosshair_color_yellow"
+						"command"							"engine hud_xhair_color_yellow"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2746,7 +2746,7 @@
 						"enabled"							"1"
 						"proportionaltoparent"				"1"
 						"labelText"							""
-						"command"							"engine hud_crosshair_color_greenpale"
+						"command"							"engine hud_xhair_color_greenpale"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2771,7 +2771,7 @@
 						"enabled"							"1"
 						"proportionaltoparent"				"1"
 						"labelText"							""
-						"command"							"engine hud_crosshair_color_green"
+						"command"							"engine hud_xhair_color_green"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2796,7 +2796,7 @@
 						"enabled"							"1"
 						"proportionaltoparent"				"1"
 						"labelText"							""
-						"command"							"engine hud_crosshair_color_greendark"
+						"command"							"engine hud_xhair_color_greendark"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2821,7 +2821,7 @@
 						"enabled"							"1"
 						"proportionaltoparent"				"1"
 						"labelText"							""
-						"command"							"engine hud_crosshair_color_teal"
+						"command"							"engine hud_xhair_color_teal"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2846,7 +2846,7 @@
 						"enabled"							"1"
 						"proportionaltoparent"				"1"
 						"labelText"							""
-						"command"							"engine hud_crosshair_color_cyan"
+						"command"							"engine hud_xhair_color_cyan"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2871,7 +2871,7 @@
 						"enabled"							"1"
 						"proportionaltoparent"				"1"
 						"labelText"							""
-						"command"							"engine hud_crosshair_color_blue"
+						"command"							"engine hud_xhair_color_blue"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2896,7 +2896,7 @@
 						"enabled"							"1"
 						"proportionaltoparent"				"1"
 						"labelText"							""
-						"command"							"engine hud_crosshair_color_blu"
+						"command"							"engine hud_xhair_color_blu"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2921,7 +2921,7 @@
 						"enabled"							"1"
 						"proportionaltoparent"				"1"
 						"labelText"							""
-						"command"							"engine hud_crosshair_color_purple"
+						"command"							"engine hud_xhair_color_purple"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2946,7 +2946,7 @@
 						"enabled"							"1"
 						"proportionaltoparent"				"1"
 						"labelText"							""
-						"command"							"engine hud_crosshair_color_violet"
+						"command"							"engine hud_xhair_color_violet"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2971,7 +2971,7 @@
 						"enabled"							"1"
 						"proportionaltoparent"				"1"
 						"labelText"							""
-						"command"							"engine hud_crosshair_color_pink"
+						"command"							"engine hud_xhair_color_pink"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 
@@ -2996,7 +2996,7 @@
 						"enabled"							"1"
 						"proportionaltoparent"				"1"
 						"labelText"							""
-						"command"							"engine hud_crosshair_color_magenta"
+						"command"							"engine hud_xhair_color_magenta"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 

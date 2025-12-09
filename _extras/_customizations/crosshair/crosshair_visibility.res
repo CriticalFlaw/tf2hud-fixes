@@ -1,1 +1,1 @@
-#base "../../../../../../cfg/hudfixes/hud_crosshair_visibility.txt"
+#base "../../../../../cfg/hudfixes/hud_xhair_visibility.txt"
