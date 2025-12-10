@@ -1711,77 +1711,87 @@
 				{
 					"0"
 					{
-						"item"		"Halloween 2025 Key"
+						"item"		"Winter 2025 Cosmetic Key"
 						"show_market"	"0"
 					}
 					"1"
 					{
-						"item"		"Halloween 2025 Case"
+						"item"		"Winter 2025 Cosmetic Case"
 						"show_market"	"1"
 					}
 					"2"
 					{
-						"item"		"Taunt: Heartbreaker"
+						"item"		"Taunt: Dead Mann's Drink"
 						"show_market"	"0"
 					}
 					"3"
 					{
-						"item"		"Taunt: Healthcare Hog"
+						"item"		"Taunt: The Critical Fail"
 						"show_market"	"0"
 					}
 					"4"
 					{
-						"item"		"Taunt: Ring King"
+						"item"		"Taunt: Chairholder"
 						"show_market"	"0"
 					}
 					"5"
 					{
-						"item"		"Map Token Cowerhouse"
+						"item"		"Map Token Nutcracker"
 						"show_market"	"0"
 					}
 					"6"
 					{
-						"item"		"Map Token Dusker"
+						"item"		"Map Token Gavle"
 						"show_market"	"0"
 					}
 					"7"
 					{
-						"item"		"Map Token Afterlife"
+						"item"		"Map Token Sidewinder"
 						"show_market"	"0"
 					}
 					"8"
 					{
-						"item"		"Map Token Devilcross"
+						"item"		"Map Token Abbey"
 						"show_market"	"0"
 					}
 					"9"
 					{
-						"item"		"Map Token Marshlands"
+						"item"		"Map Token Winter Ridge"
 						"show_market"	"0"
 					}
 					"10"
 					{
-						"item"		"Strange Filter: Cowerhouse (Community)"
+						"item"		"Map Token Matterhorn"
 						"show_market"	"0"
 					}
 					"11"
 					{
-						"item"		"Strange Filter: Dusker (Community)"
+						"item"		"Strange Filter: Nutcracker (Community)"
 						"show_market"	"0"
 					}
 					"12"
 					{
-						"item"		"Strange Filter: Afterlife (Community)"
+						"item"		"Strange Filter: Gavle (Community)"
 						"show_market"	"0"
 					}
 					"13"
 					{
-						"item"		"Strange Filter: Devilcross (Community)"
+						"item"		"Strange Filter: Sidewinder (Community)"
 						"show_market"	"0"
 					}
 					"14"
 					{
-						"item"		"Strange Filter: Marshlands (Community)"	
+						"item"		"Strange Filter: Abbey (Community)"
+						"show_market"	"0"
+					}
+					"15"
+					{
+						"item"		"Strange Filter: Winter Ridge (Community)"
+						"show_market"	"0"
+					}
+					"16"
+					{
+						"item"		"Strange Filter: Matterhorn (Community)"
 						"show_market"	"0"
 					}
 				}
@@ -1951,6 +1961,7 @@
 
 	} // SafeMode
 	
+
 	"ShowPromoCodesButton"
 	{
 		"ControlName"	"CExImageButton"
