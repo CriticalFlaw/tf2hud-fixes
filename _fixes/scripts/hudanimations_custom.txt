@@ -1,0 +1,55 @@
+// Fix Tournament Setup panel overlapping lowered Tournament panel
+
+event HudTournamentSetupPanelOpen
+{
+	Animate HudTournamentSetup	Position	"c-90 -70"	Linear 0.0 0.001
+	Animate HudTournamentSetup	Position	"c-90 90"	Spline 0.001 0.2
+}
+
+event HudTournamentSetupPanelClose
+{
+	Animate HudTournamentSetup	Position	"c-90 90"	Linear 0.0 0.001
+	Animate HudTournamentSetup	Position	"c-90 -70"	Spline 0.001 0.2
+}
+
+//==================================================================================
+// Fix Snapshop and Replay reminders overlapping the match HUD
+
+event HudSnapShotReminderIn
+{
+	Animate ScreenshotPanel		Position	"c-83 -50"	Linear 0.0 0.001
+	Animate ScreenshotPanel		Position	"c-83 25"	Spline 0.001 0.2
+}
+
+event HudReplayReminderIn	// Places the replay reminder in the same place as the snapshot reminder
+{
+	Animate ReplayReminder		Position	"c-83 -50"	Linear 0.0 0.001
+	Animate ReplayReminder		Position	"c-83 25"	Spline 0.001 0.2
+}
+
+event HudReplayReminderIn2	// Puts the panel below the snapshot panel
+{
+	Animate ReplayReminder		Position	"c-83 -50"	Linear 0.0 0.001
+	Animate ReplayReminder		Position	"c-83 65"	Spline 0.001 0.2
+}
+
+//==================================================================================
+// Fix player destruction score not returning to intended position after incrementing
+
+event RDPositiveScorePulse
+{
+	Animate Score			FgColor		"25 255 25 255"		Linear 0.0 0.0
+	Animate Score			FgColor		"TanLight"			Linear 0.1 0.2
+
+	Animate ScoreShadow		FgColor		"0 0 0 200"			Deaccel 0.0 0.05
+	Animate ScoreShadow		FgColor		"Black"				Accel 0.1 0.2
+}
+
+event RDNegativeScorePulse
+{
+	Animate Score			FgColor		"255 75 75 255"		Linear 0.0 0.0
+	Animate Score			FgColor		"TanLight"			Linear 0.1 0.2
+
+	Animate ScoreShadow		FgColor		"0 0 0 200"			Deaccel 0.0 0.05
+	Animate ScoreShadow		FgColor		"Black"				Accel 0.1 0.2
+}

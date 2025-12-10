@@ -1,1 +1,0 @@
-#base "../../../../../../cfg/hud_speedometer.txt"
