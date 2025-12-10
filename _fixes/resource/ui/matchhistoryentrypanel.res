@@ -2,6 +2,11 @@
 
 "MatchHistoryEntryPanel"
 {
+	"MatchEntry"
+	{
+		// This is needed to make this page work
+	}
+
 	"BottomStats"
 	{
 		"SlidingStatsContainer"

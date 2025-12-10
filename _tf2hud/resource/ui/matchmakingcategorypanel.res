@@ -75,7 +75,8 @@
 			"labeltext"		"#TF_Casual_ViewMaps"
 			"textAlignment"	"west"
 			"font"	"MMenuPlayListDesc"
-			"textinsetx"	"40"
+			"textinsetx"	"18"
+			"use_proportional_insets"	"1"
 
 			"stay_armed_on_click"	"1"
 

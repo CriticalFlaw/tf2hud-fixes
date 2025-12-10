@@ -2,6 +2,11 @@
 
 "Resource/UI/MatchmakingCategoryPanel.res"
 {
+	"MatchmakingCategoryPanel"
+	{
+		// This is needed to make this page work
+	}
+
 	"TopContainer"
 	{
 		"EntryToggleButton"

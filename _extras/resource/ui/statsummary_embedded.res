@@ -163,15 +163,18 @@
 	}
 	"TipText"
 	{
+		"font"			"HudFontSmallest"
 		"wide"			"340"
 	}
 	"NextTipButton"	[$WIN32]
 	{
 		"xpos"			"c-285"
+		"font"			"HudFontSmallestBold"
 	}
 	"ResetStatsButton"	[$WIN32]
 	{
 		"xpos"			"c124"
 		"ypos"			"310"
+		"font"			"HudFontSmallestBold"
 	}
 }

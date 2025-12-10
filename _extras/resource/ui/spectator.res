@@ -17,7 +17,7 @@
 	"ReinforcementsLabel"
 	{
 		"xpos_minmode"	"c-300"	[$WIN32]
-		"ypos"			"40"	[$WIN32]
+		"ypos"			"50"	[$WIN32]
 		"ypos_minmode"	"40"	[$WIN32]
 		"wide_minmode"	"600"	[$WIN32]
 		"textAlignment_minmode"	"center"

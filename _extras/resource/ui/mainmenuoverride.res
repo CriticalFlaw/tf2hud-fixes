@@ -55,6 +55,10 @@
 
 		"Background"
 		{
+			"TitleLabel"
+			{
+				"labelText"		"#TF_Competitive_Stats"
+			}
 			"CyclingAd"
 			{
 				"visible"		"0"

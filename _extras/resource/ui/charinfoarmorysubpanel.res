@@ -14,18 +14,6 @@
 			}
 		}
 	}
-	"PrevPageButton"
-	{
-		"enabled"			"0"
-	}
-	"StoreButton"
-	{
-		"xpos"				"c-295"
-		"ypos"				"290"
-		"wide"				"160"
-		"tall"				"20"
-		"font"				"HudFontSmallestBold"
-	}
 	"PrevPageShortcut"
 	{
 		"ControlName"		"CExButton"

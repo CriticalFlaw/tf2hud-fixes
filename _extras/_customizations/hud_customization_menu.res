@@ -175,7 +175,7 @@
 			"labelText"						"#TF_ClassMenu_Reset"
 			"font"							"HudFontSmallBold"
 			"textAlignment"					"center"
-			"Command"						"engine customization_reset; hudcrosshair_reset"
+			"Command"						"engine hud_customization_reset"
 			"actionsignallevel"				"2"
 			"sound_depressed"				"UI/buttonclick.wav"
 
