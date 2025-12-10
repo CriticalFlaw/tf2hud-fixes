@@ -1,4 +1,5 @@
 // Increased number of cart model panels (Contributed by impale1)
+// Added shortcut keys for going forward and back (D & A)
 
 "Resource/UI/StoreHome_Base.res"
 {
@@ -15,5 +16,27 @@
 	"CartButton"
 	{
 		"wide"			"72"
+	}
+	"PrevPageShortcut"
+	{
+		"ControlName"		"CExButton"
+		"fieldName"			"PrevPageShortcut"
+		"wide"				"0"
+		"visible"			"1"
+		"labelText"			"&A"
+		"Command"			"prevpage"
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
+	}
+	"NextPageShortcut"
+	{
+		"ControlName"		"CExButton"
+		"fieldName"			"NextPageShortcut"
+		"wide"				"0"
+		"visible"			"1"
+		"labelText"			"&D"
+		"Command"			"nextpage"
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
 	}
 }
