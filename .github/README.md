@@ -62,6 +62,7 @@
 - Higher quality item images, loading screen background and game logo.
 - Improved player model lighting on the Class Selection screen.
 - Miscellaneous visual tweaks and improvements.
+
 *These changes can be removed by deleting the `_extras` folder from the root HUD directory.*
 
 ---
