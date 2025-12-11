@@ -74,6 +74,6 @@
 - **[Jofre-Problem](https://github.com/Jofre-Problem)** - matchmaking stats on the main menu
 - **[quickkennedy](https://github.com/quickkennedy)** - quake-style speedometer
 - **[Whisker](https://github.com/rbjaxter/budhud)** - #base project structure
-- **[DistantPeak]** - improved player model lighting on the class seleection screen
+- **[DistantPeak](https://gamebanana.com/members/3001807)** - improved player model lighting on the class seleection screen
 - **[impale1](https://github.com/impale1)**, **[RoseyLemonz](https://github.com/RoseyLemonz)**, **[Kruphixx](https://github.com/Kruphixx)** - numerous notable contributions
 - Many more contributors, all of whom are listed [here](https://github.com/CriticalFlaw/tf2hud-fixes/graphs/contributors)
