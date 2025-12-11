@@ -1,5 +1,3 @@
-// Fix [unknown] label being shown when inspecting player items
-// Fix black bars appearing when inspecting skinned weapons
 // Use higher quality item images
 // Visual improvements to the tournament spectator panel
 

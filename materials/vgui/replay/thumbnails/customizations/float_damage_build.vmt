@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture"			"vgui\replay\thumbnails\customizations\float_damage_build"
+	"$baseTexture"			"vgui/replay/thumbnails/customizations/float_damage_build"
 	"$vertexalpha"			"1"
 	"$alpha"				"1"
 	"$translucent"			"1"
