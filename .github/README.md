@@ -4,7 +4,7 @@
 
   <b>Bug fixes and improvements to the default Team Fortress 2 HUD</b>
   
-  [![Release Latest](https://img.shields.io/github/v/release/CriticalFlaw/tf2hud-fixes)](https://github.com/CriticalFlaw/budhud/tf2hud-fixes/latest)
+  [![Release Latest](https://img.shields.io/github/v/release/CriticalFlaw/tf2hud-fixes)](https://github.com/CriticalFlaw/tf2hud-fixes/releases/latest)
   [![Steam Workshop](https://img.shields.io/badge/-Steam%20Workshop-1B2838?logo=steam&logoColor=white)](https://steamcommunity.com/workshop/filedetails/?id=2153598398)
   [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/hTdtK9vBhE)
   [![GameBanana](https://img.shields.io/badge/-GameBanana-F1E133)](https://gamebanana.com/mods/26450)
