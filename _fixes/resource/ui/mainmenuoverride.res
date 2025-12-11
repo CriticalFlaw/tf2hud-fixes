@@ -13,7 +13,7 @@
 	}
 	"FooterLine"
 	{
-		"zpos"			"-50"
+		"zpos"			"5"
 	}
 	"VersionLabel"
 	{
