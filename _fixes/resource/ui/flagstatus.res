@@ -18,9 +18,10 @@
 		
 		"if_mvm"
 		{
-			"xpos_minmode"	"57"
-			"ypos_minmode"	"15"
+			"xpos_minmode"	"59"
+			"ypos_minmode"	"21"
 			"wide_minmode"	"30"
+			"tall_minmode"	"30"
 		}
 	}
 	"StatusIcon"
