@@ -1,3 +1,5 @@
+// Modify arena teammenu ShadedBar to be like normal teammenu one
+
 "Resource/UI/ArenaTeamMenu.res"
 {
 	"ShadedBar"
