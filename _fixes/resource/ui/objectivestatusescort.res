@@ -83,7 +83,7 @@
 			}
 			"if_multiple_trains_bottom"
 			{
-				"ypos"				"89"
+				"ypos"				"82"
 			}
 		}
 		"CapPlayerImage"
