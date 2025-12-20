@@ -2,10 +2,6 @@
 
 "Resource/UI/Scoreboard.res"
 {
-	"scores"
-	{
-		"ping_width"	"19"
-	}
 	"RedTeamPlayerCount"
 	{
 		if_mvm
