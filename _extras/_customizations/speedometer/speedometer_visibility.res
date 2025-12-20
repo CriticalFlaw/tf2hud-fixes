@@ -1,1 +1,1 @@
-#base "../../../../../cfg/hudfixes/hud_speedometer.txt"
+#base "../../../../../cfg/hud-fixes/hud_speedometer.txt"
