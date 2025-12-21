@@ -78,3 +78,7 @@
 - **[DistantPeak](https://gamebanana.com/members/3001807)** - improved player model lighting on the class seleection screen
 - **[impale1](https://github.com/impale1)**, **[RoseyLemonz](https://github.com/RoseyLemonz)**, **[Kruphixx](https://github.com/Kruphixx)** - numerous notable contributions
 - Many more contributors, all of whom are listed [here](https://github.com/CriticalFlaw/tf2hud-fixes/graphs/contributors)
+
+<a href="https://github.com/criticalflaw/tf2hud-fixes/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=criticalflaw/tf2hud-fixes" />
+</a>
