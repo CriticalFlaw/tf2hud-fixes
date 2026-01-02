@@ -2,14 +2,6 @@
 
 "Resource/UI/Scoreboard.res"
 {
-	"RedTeamPlayerCount"
-	{
-		if_mvm
-		{
-			"xpos"			"415"
-			"ypos"			"265"
-		}
-	}
 	"BluePlayerList"
 	{
 		"linespacing"	"17"
