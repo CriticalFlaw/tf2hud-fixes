@@ -1,4 +1,4 @@
-"Resource/UI/StorePreviewItemPanel_Maps.res"
+"resource/ui/storepreviewitempanel_maps.res"
 {
 	"storepreviewitem"
 	{

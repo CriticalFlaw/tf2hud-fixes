@@ -1,4 +1,4 @@
-"Resource/UI/HudStalemate.res"
+"resource/ui/hudstalemate.res"
 {
 	"HudStalemateBG"
 	{

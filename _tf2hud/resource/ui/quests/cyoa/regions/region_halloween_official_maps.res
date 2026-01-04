@@ -1,6 +1,6 @@
 #base "region_base.res"
 
-"Resource/ui/quests/CYOA/regions/region_halloween_official_maps.res"
+"resource/ui/quests/cyoa/regions/region_halloween_official_maps.res"
 {	
 	"Region"
 	{

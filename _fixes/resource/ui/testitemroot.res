@@ -1,6 +1,6 @@
 // Fix page header overlapping the matchmaking dashboard
 
-"Resource/UI/TestItemRoot.res"
+"resource/ui/testitemroot.res"
 {
 	"TitleLabel"
 	{

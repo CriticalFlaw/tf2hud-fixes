@@ -1,7 +1,7 @@
 // Increased number of cart model panels (Contributed by impale1)
 // Added shortcut keys for going forward and back (D & A)
 
-"Resource/UI/StoreHome_Base.res"
+"resource/ui/storehome_base.res"
 {
 	"StorePage"
 	{

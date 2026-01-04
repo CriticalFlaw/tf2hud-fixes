@@ -2,7 +2,7 @@
 // Enable player model manipulation
 // Use higher quality item images
 
-"Resource/UI/FullLoadoutPanel.res"
+"resource/ui/fullloadoutpanel.res"
 {
 	"class_loadout_panel"
 	{

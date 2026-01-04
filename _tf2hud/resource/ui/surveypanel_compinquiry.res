@@ -1,6 +1,6 @@
-#base "SurveyPanel_Base.res"
+#base "surveypanel_base.res"
 
-"Resource/UI/SurveyPanel_CompInquiry.res"
+"resource/ui/surveypanel_compinquiry.res"
 {
 	"Survey"
 	{

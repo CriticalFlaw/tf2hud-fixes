@@ -1,4 +1,4 @@
-"Resource/UI/HudItemEffectMeter_HalloweenSouls.res"
+"resource/ui/huditemeffectmeter_halloweensouls.res"
 {
 	HudItemEffectMeter
 	{

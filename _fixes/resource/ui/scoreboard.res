@@ -2,7 +2,7 @@
 // Fix player model clipping through the scoreboard border (Fix by impale1)
 // Expanded ping column width to fix "BOT" text cutoff
 
-"Resource/UI/Scoreboard.res"
+"resource/ui/scoreboard.res"
 {
 	"scores"
 	{

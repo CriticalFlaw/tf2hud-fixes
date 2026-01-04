@@ -1,6 +1,6 @@
-#base "..\QuestItemPanel_Base.res"
+#base "../questitempanel_base.res"
 
-"Resource/UI/econ/QuestItemPanel.res"
+"resource/ui/econ/questitempanel.res"
 {
 	"QuestItemPanel"
 	{
@@ -21,8 +21,8 @@
 
 		"encoded_text"	"#QuestLog_Encoded_Merasmus"
 		"expire_text"	"#TF_QuestExpirationWarning_Halloween"
-		"TrackerPanelResFile"	"resource/UI/quests/merasmus/QuestItemTrackerPanel_QuestLog.res"	
-		"ItemAttributeResFile"	"resource/UI/quests/merasmus/QuestObjectivePanel_QuestLog.res"
+		"TrackerPanelResFile"	"resource/ui/quests/merasmus/questitemtrackerpanel_questlog.res"	
+		"ItemAttributeResFile"	"resource/ui/quests/merasmus/questobjectivepanel_questlog.res"
 
 		"decode_style"	"1"
 

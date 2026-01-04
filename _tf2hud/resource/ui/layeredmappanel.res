@@ -1,4 +1,4 @@
-"Resource/UI/LayeredMapPanel.res"
+"resource/ui/layeredmappanel.res"
 {		
 	"LayeredMapPanel"
 	{

@@ -1,6 +1,6 @@
 #base "base.res"
 
-"Resource/UI/disguise_menu/pyro_red.res"
+"resource/ui/disguise_menu/pyro_red.res"
 {
 	"ItemNameLabel"
 	{	

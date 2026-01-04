@@ -1,7 +1,7 @@
 // Fix overlapping with other item meters
 #base "huditemeffectmeter_cleaver.res"
 
-"Resource/UI/HudItemEffectMeter_Pomson.res"
+"resource/ui/huditemeffectmeter_pomson.res"
 {
 	HudItemEffectMeter
 	{

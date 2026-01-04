@@ -1,4 +1,4 @@
-"Resource/UI/HudTrainingMsg.res"
+"resource/ui/hudtrainingmsg.res"
 {
 	"HudTrainingMsgBG"
 	{

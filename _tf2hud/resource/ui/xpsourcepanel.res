@@ -1,4 +1,4 @@
-"Resource/UI/XPSourcePanel.res"
+"resource/ui/xpsourcepanel.res"
 {		
 	"Indicator"
 	{

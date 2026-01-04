@@ -1,6 +1,6 @@
 // Adjustments to the Mann vs Machine upgrade panel (Contributed by impale1)
 
-"Resource/UI/UpgradeBoxDialog.res"
+"resource/ui/upgradeboxdialog.res"
 {
 	"UpgradeButton"
 	{

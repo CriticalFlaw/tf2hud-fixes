@@ -1,4 +1,4 @@
-"Resource/UI/NavigationPanelTest.res"
+"resource/ui/navigationpaneltest.res"
 {
 	"NavTest"
 	{

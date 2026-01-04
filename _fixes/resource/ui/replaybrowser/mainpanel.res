@@ -1,6 +1,6 @@
 // Update the Replay page to match other main menu pages
 
-"Resource/UI/replaybrowser/mainpanel.res"
+"resource/ui/replaybrowser/mainpanel.res"
 {
 	"ReplayBrowser"
 	{

@@ -1,6 +1,6 @@
 // Fix Scout and Soldier labels not highlighting
 
-"Resource/UI/ClassSelection.res"
+"resource/ui/classselection.res"
 {
 	"scout"
 	{

@@ -1,4 +1,4 @@
-"Resource/UI/StoreHome_FreeTrial.res"
+"resource/ui/storehome_freetrial.res"
 {
 	"StorePage"
 	{

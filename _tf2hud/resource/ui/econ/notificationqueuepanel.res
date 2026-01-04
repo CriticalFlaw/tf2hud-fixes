@@ -1,4 +1,4 @@
-"Resource/UI/NotificationQueuePanel.res"
+"resource/ui/notificationqueuepanel.res"
 {
 	"NotificationQueuePanel"
 	{

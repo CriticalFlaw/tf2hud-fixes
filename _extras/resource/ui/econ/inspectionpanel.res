@@ -1,6 +1,6 @@
 // Updated buttons to use themed font
 
-"Resource/UI/econ/QuestEditorPanel.res"
+"resource/ui/econ/questeditorpanel.res"
 {
 	"PaintkitPreviewContainer"
 	{

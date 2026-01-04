@@ -1,6 +1,6 @@
 // Fix tip label being cutoff on the Contracker Fix by impale1)
 
-"Resource/UI/QuestMapPanel.res"
+"resource/ui/questmappanel.res"
 {
 	"QuestMap"
 	{

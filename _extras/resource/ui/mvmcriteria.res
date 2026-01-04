@@ -1,6 +1,6 @@
 // Adjustments to the MvM Queue screen
 
-"Resource/UI/MvMCriteria.res"
+"resource/ui/mvmcriteria.res"
 {
 	"MvMSelectChallengeGroupBox"
 	{

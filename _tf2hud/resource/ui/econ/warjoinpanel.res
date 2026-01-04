@@ -1,4 +1,4 @@
-"Resource/UI/WarInfoPanel.res"
+"resource/ui/warinfopanel.res"
 {
 	"WarPanel"
 	{

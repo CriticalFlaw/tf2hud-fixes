@@ -1,4 +1,4 @@
-"Resource/UI/ViewRecipesPanel.res"
+"resource/ui/viewrecipespanel.res"
 {
 	"ViewRecipesPanel"
 	{

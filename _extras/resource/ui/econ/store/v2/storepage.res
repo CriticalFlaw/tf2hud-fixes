@@ -1,6 +1,6 @@
 // Increased number of cart model panels (Contributed by impale1)
 
-"Resource/UI/StorePage.res"
+"resource/ui/storepage.res"
 {
 	"StorePage"
 	{

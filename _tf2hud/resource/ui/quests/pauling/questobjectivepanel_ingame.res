@@ -1,6 +1,6 @@
-#base "..\QuestObjectivePanel_InGame_Base.res"
+#base "../questobjectivepanel_ingame_base.res"
 
-"Resource/UI/HudAchievementTrackerItem.res"
+"resource/ui/hudachievementtrackeritem.res"
 {	
 	"QuestObjectiveTextPanel"
 	{

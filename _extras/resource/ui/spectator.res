@@ -1,6 +1,6 @@
 // Visual adjustments to the the respawn view
 
-"Resource/UI/Spectator.res"
+"resource/ui/spectator.res"
 {
 	"topbar"
 	{

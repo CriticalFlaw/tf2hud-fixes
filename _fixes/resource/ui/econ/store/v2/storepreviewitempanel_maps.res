@@ -1,6 +1,6 @@
 // Removed unused labels when previewing maps
 
-"Resource/UI/StorePreviewItemPanel.res"
+"resource/ui/storepreviewitempanel.res"
 {
 	"PaintNameLabel"
 	{

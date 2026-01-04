@@ -1,4 +1,4 @@
-"Resource/UI/QuestMapPanel.res"
+"resource/ui/questmappanel.res"
 {
 	"QuestMap"
 	{
@@ -1173,7 +1173,7 @@
 						"tall"			"200"
 						"progress_bar_standard_loc_token"	"#QuestPoints_Standard"
 						"progress_bar_advanced_loc_token"	"#QuestPoints_Bonus"
-						"item_attribute_res_file" "resource/UI/quests/CYOA/QuestObjectivePanel_CYOA.res"
+						"item_attribute_res_file" "resource/ui/quests/cyoa/questobjectivepanel_cyoa.res"
 						"mouseinputenabled"	"0"
 						"map_view"	"1"
 						"show_item_name"	"0"

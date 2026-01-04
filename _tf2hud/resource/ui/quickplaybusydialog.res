@@ -1,4 +1,4 @@
-"Resource/UI/QuickPlayBusyDialog.res"
+"resource/ui/quickplaybusydialog.res"
 {
 	"QuickPlayBusyDialog"
 	{

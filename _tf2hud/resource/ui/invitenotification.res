@@ -1,4 +1,4 @@
-"Resource/UI/ChatPopup.res"
+"resource/ui/chatpopup.res"
 {
 	"InviteNotification"
 	{

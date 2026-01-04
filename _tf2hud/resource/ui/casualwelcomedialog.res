@@ -1,4 +1,4 @@
-"Resource/UI/CasualWelcomeDialog.res"
+"resource/ui/casualwelcomedialog.res"
 {
 	"ConfirmDialog"
 	{

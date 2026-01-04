@@ -1,4 +1,4 @@
-"Resource/UI/GlobalExplanations.res"
+"resource/ui/globalexplanations.res"
 {
 	"ExplanationManager"
 	{

@@ -1,6 +1,6 @@
 // Fix black bars appearing when inspecting skinned weapons
 
-"Resource/UI/Spectator.res"
+"resource/ui/spectator.res"
 {
 	"itempanel"
 	{

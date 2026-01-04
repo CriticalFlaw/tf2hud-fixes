@@ -1,4 +1,4 @@
-"Resource/UI/MatchmakingCategoryMapPanel.res"
+"resource/ui/matchmakingcategorymappanel.res"
 {
 	"MatchmakingCategoryMapPanel"
 	{

@@ -1,6 +1,6 @@
-#base "StorePage.res"
+#base "storepage.res"
 
-"Resource/UI/StorePage_Maps.res"
+"resource/ui/storepage_maps.res"
 {
 	"StorePage"
 	{

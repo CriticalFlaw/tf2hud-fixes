@@ -1,4 +1,4 @@
-"Resource/UI/SaxxyAwards_SubmitForm.res"
+"resource/ui/saxxyawards_submitform.res"
 {
 	"SaxxySubmitForm"
 	{

@@ -1,6 +1,6 @@
 // Added minmode support for Robot Destruction (Contributed by RoseyLemonz)
 
-"Resource/UI/TFHudRobotDestruction_RobotIndicator.res"
+"resource/ui/tfhudrobotdestruction_robotindicator.res"
 {
 	"RobotStateContainer"
 	{

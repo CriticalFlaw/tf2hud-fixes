@@ -1,6 +1,6 @@
 // Added shortcut keys for going forward and back (D & A)
 
-"Resource/UI/MapInfoMenu.res"
+"resource/ui/mapinfomenu.res"
 {
 	"ContinueShortcut"
 	{

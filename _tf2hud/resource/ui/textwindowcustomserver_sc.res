@@ -1,4 +1,4 @@
-"Resource/UI/TextWindowCustomServer.res"
+"resource/ui/textwindowcustomserver.res"
 {
 	"info"
 	{

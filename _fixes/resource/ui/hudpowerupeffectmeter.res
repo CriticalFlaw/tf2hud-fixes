@@ -1,6 +1,6 @@
 // Fix Mannpower power-up meter overlapping other item meters
 
-"Resource/UI/HudItemEffectMeter.res"
+"resource/ui/huditemeffectmeter.res"
 {
 	HudItemEffectMeter
 	{

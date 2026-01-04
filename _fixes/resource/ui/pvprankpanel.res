@@ -1,6 +1,6 @@
 // Fix the medal not displaying properly on the main menu in 4:3 resolutions
 
-"Resource/UI/PvPRankPanel.res"
+"resource/ui/pvprankpanel.res"
 {
 	"ModelContainer"
 	{

@@ -1,6 +1,6 @@
 #base "base_notification.res"
 
-"Resource/UI/notifications/notify_competitive_gc_down.res"
+"resource/ui/notifications/notify_competitive_gc_down.res"
 {	
 	"Notification_Background"
 	{

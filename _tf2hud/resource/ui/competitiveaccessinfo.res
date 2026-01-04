@@ -1,4 +1,4 @@
-"resource/ui/CompetitiveAccessInfo.res"
+"resource/ui/competitiveaccessinfo.res"
 {
 	"MainContainer"
 	{

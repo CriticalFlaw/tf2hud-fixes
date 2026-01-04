@@ -1,4 +1,4 @@
-"Resource/UI/MvMVictoryMannUpLoot.res"
+"resource/ui/mvmvictorymannuploot.res"
 {	
 	"Marker"
 	{

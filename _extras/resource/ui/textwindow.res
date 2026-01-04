@@ -1,6 +1,6 @@
 // Added shortcut key for going forward (D)
 
-"Resource/UI/TextWindow.res"
+"resource/ui/textwindow.res"
 {
 	"ContinueShortcut"
 	{

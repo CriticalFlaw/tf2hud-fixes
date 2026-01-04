@@ -1,6 +1,6 @@
 // Fix a text cutoff on Linux (Fix by impale1)
 
-"Resource/UI/HudAmmoWeapons.res"
+"resource/ui/hudammoweapons.res"
 {
 	"HudWeaponAmmoBG"
 	{

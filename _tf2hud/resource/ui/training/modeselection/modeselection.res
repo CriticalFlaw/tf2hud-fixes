@@ -1,4 +1,4 @@
-"Resource/training/modeselection/modeselection.res"
+"resource/training/modeselection/modeselection.res"
 {
 	"BasicTrainingPanel"
 	{

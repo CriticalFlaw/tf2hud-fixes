@@ -1,4 +1,4 @@
-"Resource\offline_practice.res"
+"resource/offline_practice.res"
 {
 	"defaults"
 	{

@@ -1,6 +1,6 @@
 // Fix black bars appearing when inspecting skinned weapons
 
-"Resource/UI/FreezePanel_Basic.res"
+"resource/ui/freezepanel_basic.res"
 {
 	"itempanel"
 	{

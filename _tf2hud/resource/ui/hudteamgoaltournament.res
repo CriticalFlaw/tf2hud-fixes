@@ -1,4 +1,4 @@
-"Resource/UI/HudTeamGoalTournament.res"
+"resource/ui/hudteamgoaltournament.res"
 {
 	"HudStopWatchObjective"
 	{

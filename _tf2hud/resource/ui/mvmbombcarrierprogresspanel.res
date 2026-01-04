@@ -1,4 +1,4 @@
-"Resource/UI/MvMBombCarrierProgressPanel.res"
+"resource/ui/mvmbombcarrierprogresspanel.res"
 {			
 	"BaseBackground"
 	{

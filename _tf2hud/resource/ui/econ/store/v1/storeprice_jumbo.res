@@ -1,4 +1,4 @@
-"Resource/UI/StorePrice_Jumbo.res"
+"resource/ui/storeprice_jumbo.res"
 {
 	"StorePrice"
 	{

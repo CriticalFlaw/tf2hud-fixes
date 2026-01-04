@@ -1,7 +1,7 @@
 // Updated to match the updated spectator view
 // Updated the look of the health display on the TargetID
 
-"Resource/UI/SpectatorGUIHealth.res"
+"resource/ui/spectatorguihealth.res"
 {
 	"PlayerStatusHealthValue"
 	{

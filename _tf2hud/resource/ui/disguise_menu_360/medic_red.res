@@ -1,6 +1,6 @@
 #base "base.res"
 
-"Resource/UI/disguise_menu/medic_red.res"
+"resource/ui/disguise_menu/medic_red.res"
 {
 	"ItemNameLabel"
 	{	

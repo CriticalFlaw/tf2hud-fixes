@@ -1,6 +1,6 @@
 // Fix MVM cash counter overlapping the killstreak and disguise panels in minmode
 
-"Resource/UI/HudMannVsMachineStatus.res"
+"resource/ui/hudmannvsmachinestatus.res"
 {
 	"InWorldCurrencyPanel"
 	{

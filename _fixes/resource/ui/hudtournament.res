@@ -1,6 +1,6 @@
 // Fix Tournamet panel overlap with the match HUD
 
-"Resource/UI/HudTournament.res"
+"resource/ui/hudtournament.res"
 {
 	HudTournament
 	{

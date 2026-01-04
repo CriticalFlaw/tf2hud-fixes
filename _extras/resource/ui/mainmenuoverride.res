@@ -2,7 +2,7 @@
 // Show the customization menu button
 // Adjustment button alignment (Contributed by Sloofy & Kruphixx)
 
-"Resource/UI/MainMenuOverride.res"
+"resource/ui/mainmenuoverride.res"
 {
 	MainMenuOverride
 	{

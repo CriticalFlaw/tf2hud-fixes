@@ -1,4 +1,4 @@
-"Resource/UI/FreezePanelCallout.res"
+"resource/ui/freezepanelcallout.res"
 {
 	"CalloutBG"
 	{

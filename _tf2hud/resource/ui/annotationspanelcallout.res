@@ -1,4 +1,4 @@
-"Resource/UI/AnnotationsPanelCallout.res"
+"resource/ui/annotationspanelcallout.res"
 {
 	"AnnotationsPanelCallout"
 	{

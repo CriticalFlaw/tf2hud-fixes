@@ -1,4 +1,4 @@
-"Resource/UI/LeaderboardEntry.res"
+"resource/ui/leaderboardentry.res"
 {
 	"LeaderboardEntry"
 	{

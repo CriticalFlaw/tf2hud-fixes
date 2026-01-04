@@ -1,4 +1,4 @@
-"Resource/UI/ImportFileTextEditDialog.res"
+"resource/ui/importfiletexteditdialog.res"
 {
 	"ImportFileTextEditDialog"
 	{

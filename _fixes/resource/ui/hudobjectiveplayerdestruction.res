@@ -1,6 +1,6 @@
 // Added minmode support for Player Destruction
 
-"Resource/UI/HudObjectivePlayerDestruction.res"
+"resource/ui/hudobjectiveplayerdestruction.res"
 {
 	"CarriedContainer"
 	{

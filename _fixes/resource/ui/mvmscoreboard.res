@@ -1,6 +1,6 @@
 // Fix to accommodate large waves and bigger player teams (Fix by mtxfellen & impale1)
 
-"Resource/UI/MvMScoreboard.res"
+"resource/ui/mvmscoreboard.res"
 {
 	"WaveStatusPanel"
 	{

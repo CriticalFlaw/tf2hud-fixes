@@ -1,7 +1,7 @@
 // Added minmode support for Arena Hybrid (Contributed by RoseyLemonz)
-#base "HudObjectivePlayerDestruction.res"
+#base "hudobjectiveplayerdestruction.res"
 
-"Resource/UI/HudObjectiveArenaHybrid.res"
+"resource/ui/hudobjectivearenahybrid.res"
 {
 	"ScoreContainer"
 	{

@@ -1,6 +1,6 @@
 // Fix quantity label cutoffs (Fix by impale1)
 
-"Resource/UI/StoreViewCartPanel.res"
+"resource/ui/storeviewcartpanel.res"
 {
 	"store_viewcart_panel"
 	{

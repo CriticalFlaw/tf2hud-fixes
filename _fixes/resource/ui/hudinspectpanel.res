@@ -1,6 +1,6 @@
 // Fix black bars appearing when inspecting skinned weapons
 
-"Resource/UI/HudInspectPanel.res"
+"resource/ui/hudinspectpanel.res"
 {
 	"itempanel"
 	{

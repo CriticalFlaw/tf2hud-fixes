@@ -1,4 +1,4 @@
-"Resource/UI/econ/QuestItemPanel.res"
+"resource/ui/econ/questitempanel.res"
 {
 	"QuestItemPanel"
 	{
@@ -21,8 +21,8 @@
 
 		"encoded_text"	"#QuestLog_Encoded"
 		"expire_text"	"#TF_QuestExpirationWarning"
-		"TrackerPanelResFile"	"resource/UI/quests/QuestItemTrackerPanel_QuestLog_Base.res"	
-		"ItemAttributeResFile"	"resource/UI/quests/QuestObjectivePanel_QuestLog_Base.res"
+		"TrackerPanelResFile"	"resource/ui/quests/questitemtrackerpanel_questlog_base.res"	
+		"ItemAttributeResFile"	"resource/ui/quests/questobjectivepanel_questlog_base.res"
 		"scrolling_container_height"	"240"
 
 		// Sound effects

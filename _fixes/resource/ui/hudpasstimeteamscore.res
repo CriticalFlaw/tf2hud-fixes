@@ -1,6 +1,6 @@
 // Added minmode support for PASS Time (Contributed by RoseyLemonz)
 
-"Resource/UI/HudPasstimeTeamScore.res"
+"resource/ui/hudpasstimeteamscore.res"
 {
 	"LeftSideBG"
 	{

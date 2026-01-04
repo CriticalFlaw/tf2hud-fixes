@@ -1,6 +1,6 @@
 // Added shortcut key for going back (Q)
 
-"Resource/UI/CharInfoPanel.res"
+"resource/ui/charinfopanel.res"
 {
 	"BackShortcut"
 	{

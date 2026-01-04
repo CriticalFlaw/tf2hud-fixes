@@ -1,6 +1,6 @@
-#base "HudItemEffectMeter.res"
+#base "huditemeffectmeter.res"
 
-"Resource/UI/HudItemEffectMeter_Pyro.res"
+"resource/ui/huditemeffectmeter_pyro.res"
 {
 	HudItemEffectMeter
 	{

@@ -1,7 +1,7 @@
 // Adjustments to ammo and pipe counter to fix cutoffs in Linux
 // Restored speaking player avatars to the voice indicator
 
-"Resource/HudLayout.res"
+"resource/hudlayout.res"
 {
 	HudWeaponAmmo
 	{

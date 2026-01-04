@@ -1,4 +1,4 @@
-"Resource/UI/StatPanel_PlayTime.res"
+"resource/ui/statpanel_playtime.res"
 {
 	"StatPanelBG"
 	{

@@ -1,6 +1,6 @@
 // Fix tooltip panel when viewing a skinned weapon
 
-"Resource/UI/CharInfoArmorySubPanel.res"
+"resource/ui/charinfoarmorysubpanel.res"
 {
 	"mouseoveritempanel"
 	{

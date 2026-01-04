@@ -1,4 +1,4 @@
-"Resource/UI/MainMenu_SaxxyAwards.res"
+"resource/ui/mainmenu_saxxyawards.res"
 {
 	"Background"
 	{

@@ -1,6 +1,6 @@
 // Added shortcut key for going back (Q)
 
-"Resource/UI/StorePanel.res"
+"resource/ui/storepanel.res"
 {
 	"CloseShortcut"
 	{

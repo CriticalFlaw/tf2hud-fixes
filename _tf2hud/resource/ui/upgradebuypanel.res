@@ -1,4 +1,4 @@
-"Resource/UI/UpgradeBuyPanel.res"
+"resource/ui/upgradebuypanel.res"
 {	
 	"UpgradeBuyPanel"
 	{

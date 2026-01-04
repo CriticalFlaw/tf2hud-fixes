@@ -1,6 +1,6 @@
 // Fix visual inconsistency and placement
 
-"Resource/UI/HudItemEffectMeter_Demoman.res"
+"resource/ui/huditemeffectmeter_demoman.res"
 {
 	HudItemEffectMeter
 	{

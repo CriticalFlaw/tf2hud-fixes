@@ -1,7 +1,7 @@
 // Use higher quality item images
 // Visual improvements to the tournament spectator panel
 
-"Resource/UI/SpectatorTournament.res"
+"resource/ui/spectatortournament.res"
 {
 	"specgui"
 	{

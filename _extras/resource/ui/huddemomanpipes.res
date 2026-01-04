@@ -1,6 +1,6 @@
 // Visual adjusments to Demoman pipes counter in minmode
 
-"Resource/UI/HudDemomanPipes.res"
+"resource/ui/huddemomanpipes.res"
 {
 	"ChargeLabel"
 	{

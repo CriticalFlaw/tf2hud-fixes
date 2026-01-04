@@ -2,7 +2,7 @@
 // Visual adjustments to the page
 // Use higher quality item images
 
-"Resource/UI/CharInfoArmorySubPanel.res"
+"resource/ui/charinfoarmorysubpanel.res"
 {
 	"armory_panel"
 	{

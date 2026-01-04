@@ -1,4 +1,4 @@
-"Resource/UI/Quests/LineItem_Credits.res"
+"resource/ui/quests/lineitem_credits.res"
 {	
 	"Credits"
 	{

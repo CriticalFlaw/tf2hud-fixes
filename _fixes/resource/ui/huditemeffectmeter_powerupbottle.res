@@ -1,6 +1,6 @@
 // Fix overlapping with other item meters
 
-"Resource/UI/HudItemEffectMeter_PowerupBottles.res"
+"resource/ui/huditemeffectmeter_powerupbottles.res"
 {
 	HudItemEffectMeter
 	{

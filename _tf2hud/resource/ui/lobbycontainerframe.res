@@ -1,4 +1,4 @@
-"Resource/UI/LobbyContainerFrame.res"
+"resource/ui/lobbycontainerframe.res"
 {
 	"LobbyContainerFrame"
 	{

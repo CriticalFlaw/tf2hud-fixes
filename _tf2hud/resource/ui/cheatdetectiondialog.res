@@ -1,4 +1,4 @@
-"Resource/UI/CheatDetectionDialog.res"
+"resource/ui/cheatdetectiondialog.res"
 {
 	"CheatDetectionDialog"
 	{

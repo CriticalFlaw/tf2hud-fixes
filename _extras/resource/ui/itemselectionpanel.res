@@ -2,7 +2,7 @@
 // Use higher quality item images
 // Adjusted buttons placements (Contributed by Kruphixx)
 
-"Resource/UI/ItemSelectionPanel.res"
+"resource/ui/itemselectionpanel.res"
 {
 	"ItemSelectionPanel"
 	{

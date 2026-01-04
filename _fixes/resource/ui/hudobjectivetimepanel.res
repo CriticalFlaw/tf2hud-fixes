@@ -1,6 +1,6 @@
 // Fix server time label overlap (Fix by Kruphixx)
 
-"Resource/UI/HudObjectiveTimePanel.res"
+"resource/ui/hudobjectivetimepanel.res"
 {
 	"ServerTimeLimitLabel"
 	{

@@ -1,4 +1,4 @@
-"Resource/UI/MatchMakingDashboardPopup.res"
+"resource/ui/matchmakingdashboardpopup.res"
 {
 	"MMPopup"
 	{

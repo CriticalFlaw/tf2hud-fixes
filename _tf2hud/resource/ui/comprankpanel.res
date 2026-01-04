@@ -1,1 +1,1 @@
-#base "PvPRankPanel.res"
+#base "pvprankpanel.res"

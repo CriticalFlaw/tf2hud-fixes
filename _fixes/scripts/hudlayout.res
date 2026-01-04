@@ -4,7 +4,7 @@
 // Fix MvM currency being overlapped by the killstreak counter and disguise panel
 // Fix disguise panel being overllaped by the killstreak counter
 
-"Resource/HudLayout.res"
+"resource/hudlayout.res"
 {
 	DisguiseStatus
 	{

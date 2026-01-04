@@ -1,4 +1,4 @@
-"Resource/UI/GiveawayItemPanel.res"
+"resource/ui/giveawayitempanel.res"
 {
 	"giveaway_item"
 	{

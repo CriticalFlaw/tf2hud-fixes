@@ -1,6 +1,6 @@
 // Fix for player health misplacement on tournament spectator in minmode
 
-"Resource/UI/SpectatorTournamentGUIHealth.res"
+"resource/ui/spectatortournamentguihealth.res"
 {
 	"PlayerStatusHealthValue"
 	{

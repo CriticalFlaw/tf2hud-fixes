@@ -1,4 +1,4 @@
-"Resource/UI/Quests/LineItem_Points.res"
+"resource/ui/quests/lineitem_points.res"
 {	
 	"Points"
 	{

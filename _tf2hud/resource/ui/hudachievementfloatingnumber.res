@@ -1,4 +1,4 @@
-"Resource/UI/HudAchievementFloatingNumber.res"
+"resource/ui/hudachievementfloatingnumber.res"
 {	
 	"FloatingAchievementNumber"
 	{

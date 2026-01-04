@@ -1,6 +1,6 @@
 // Restored wave label to the MvM wave panel in minmode 
 
-"Resource/UI/WaveStatusPanel.res"
+"resource/ui/wavestatuspanel.res"
 {
 	"WaveCountLabel"
 	{

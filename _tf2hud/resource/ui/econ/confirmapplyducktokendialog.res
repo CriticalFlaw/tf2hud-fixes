@@ -1,4 +1,4 @@
-"Resource/UI/ConfirmApplyDuckTokenDialog.res"
+"resource/ui/confirmapplyducktokendialog.res"
 {
 	"ConfirmApplyDuckTokenDialog"
 	{

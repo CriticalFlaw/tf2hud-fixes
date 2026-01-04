@@ -1,4 +1,4 @@
-"Resource/UI/SelectPlayerDialog_Duel.res"
+"resource/ui/selectplayerdialog_duel.res"
 {
 	"SelectPlayerDialog"
 	{

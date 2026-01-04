@@ -1,6 +1,6 @@
 // Added minmode support for PASS Time (Contributed by RoseyLemonz)
 
-"Resource/UI/HudPasstimeBallStatus.res"
+"resource/ui/hudpasstimeballstatus.res"
 {
 	"ProgressLevelBar"
 	{

@@ -1,4 +1,4 @@
-"Resource/UI/HudArenaCapPointCountdown.res"
+"resource/ui/hudarenacappointcountdown.res"
 {
 	"CapCountdownLabel"
 	{	

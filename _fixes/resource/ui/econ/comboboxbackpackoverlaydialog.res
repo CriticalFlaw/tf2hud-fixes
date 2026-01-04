@@ -1,6 +1,6 @@
 // Fix item preview models not always showing
 
-"Resource/UI/econ/ComboBoxBackpackOverlayDialogBase.res"
+"resource/ui/econ/comboboxbackpackoverlaydialogbase.res"
 {
 	"preview_model"
 	{

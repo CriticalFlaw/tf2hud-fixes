@@ -1,6 +1,6 @@
 // Added shortcut key for going back (Q)
 
-"Resource/UI/replaybrowser/mainpanel.res"
+"resource/ui/replaybrowser/mainpanel.res"
 {
 	"BackShortcut"
 	{

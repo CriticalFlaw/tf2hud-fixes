@@ -1,7 +1,7 @@
 // Fix Show Promo button overlapping MOTD panel
 // Fix incorrect zpos for FooterLine
 
-"Resource/UI/MainMenuOverride.res"
+"resource/ui/mainmenuoverride.res"
 {
 	MainMenuOverride
 	{

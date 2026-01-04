@@ -1,4 +1,4 @@
-"Resource/UI/StoreStatusDialog.res"
+"resource/ui/storestatusdialog.res"
 {
 	"StoreStatusDialog"
 	{

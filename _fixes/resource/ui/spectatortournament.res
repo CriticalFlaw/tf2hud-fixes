@@ -1,7 +1,7 @@
 // Fix [unknown] label being shown when inspecting player items
 // Fix black bars appearing when inspecting skinned weapons
 
-"Resource/UI/SpectatorTournament.res"
+"resource/ui/spectatortournament.res"
 {
 	"itempanel"
 	{

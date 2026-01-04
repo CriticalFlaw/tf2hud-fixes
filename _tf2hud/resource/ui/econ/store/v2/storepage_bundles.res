@@ -1,5 +1,5 @@
-#base "StorePage.res"
+#base "storepage.res"
 
-"Resource/UI/StorePage_Bundles.res"
+"resource/ui/storepage_bundles.res"
 {
 }

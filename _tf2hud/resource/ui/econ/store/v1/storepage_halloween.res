@@ -1,4 +1,4 @@
-"Resource/UI/StorePage_Halloween.res"
+"resource/ui/storepage_halloween.res"
 {
 	"StorePage"
 	{

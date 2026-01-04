@@ -1,7 +1,7 @@
 // Fix comp medal being too small on the competitive post-match screen (Fix by Kruphixx)
-#base "PvPRankPanel.res"
+#base "pvprankpanel.res"
 
-"Resource/UI/PvPRankPanel.res"
+"resource/ui/pvprankpanel.res"
 {
 	"ModelContainer"
 	{

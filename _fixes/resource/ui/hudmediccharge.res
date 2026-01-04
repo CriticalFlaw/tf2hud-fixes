@@ -1,6 +1,6 @@
 // Restored the resistance icon in minmode
 
-"Resource/UI/HudMedicCharge.res"
+"resource/ui/hudmediccharge.res"
 {
 	"ResistIcon"
 	{

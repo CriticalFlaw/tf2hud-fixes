@@ -1,7 +1,7 @@
 // Added minmode support for PASS Time (Contributed by RoseyLemonz)
-#base "HudMiniGame_Soccer.res"
+#base "hudminigame_soccer.res"
 
-"Resource/UI/HudMiniGame_SuddenDeath.res"
+"resource/ui/hudminigame_suddendeath.res"
 {
 	"RedSkullImage"
 	{

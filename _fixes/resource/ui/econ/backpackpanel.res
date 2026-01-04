@@ -1,6 +1,6 @@
 // Fix page header when trying to apply an item
 
-"Resource/UI/FullLoadoutPanel.res"
+"resource/ui/fullloadoutpanel.res"
 {
 	"CaratLabel"
 	{

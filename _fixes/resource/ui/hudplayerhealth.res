@@ -1,6 +1,6 @@
 // Fix max health value overlapping other status icons
 
-"Resource/UI/HudPlayerHealth.res"
+"resource/ui/hudplayerhealth.res"
 {
 	"PlayerStatusMaxHealthValue"
 	{

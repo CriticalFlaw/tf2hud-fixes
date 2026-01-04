@@ -1,6 +1,6 @@
 #base ScrollableQuestList.res
 
-"Resource/UI/econ/ScrollableQuestList.res"
+"resource/ui/econ/scrollablequestlist.res"
 {
 	"BackgroundFolderImage"
 	{

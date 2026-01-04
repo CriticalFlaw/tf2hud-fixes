@@ -1,4 +1,4 @@
-"Resource/UI/WarInfoPanel_FriendsLeaderboard.res"
+"resource/ui/warinfopanel_friendsleaderboard.res"
 {
 	"ScoresContainer"
 	{

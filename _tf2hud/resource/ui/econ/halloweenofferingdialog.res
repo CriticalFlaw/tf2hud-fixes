@@ -1,6 +1,6 @@
-#base "CollectionCraftingDialog_Base.res"
+#base "collectioncraftingdialog_base.res"
 
-"Resource/UI/econ/HalloweenOfferingDialog.res"
+"resource/ui/econ/halloweenofferingdialog.res"
 {
 	"CollectionCraftingPanel"
 	{

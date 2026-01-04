@@ -1,2 +1,2 @@
-"Resource/UI/HudObjectiveStatus.res"
+"resource/ui/hudobjectivestatus.res"
 {	}

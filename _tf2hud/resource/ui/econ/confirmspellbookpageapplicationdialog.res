@@ -1,4 +1,4 @@
-"Resource/UI/ConfirmSpellbookPageApplicationDialog.res"
+"resource/ui/confirmspellbookpageapplicationdialog.res"
 {
 	"ConfirmSpellbookPageApplicationDialog"
 	{

@@ -1,6 +1,6 @@
-#base "CollectionCraftingDialog_Base.res"
+#base "collectioncraftingdialog_base.res"
 
-"Resource/UI/econ/MannCoTrade_CommonStatClock.res"
+"resource/ui/econ/manncotrade_commonstatclock.res"
 {
 	"CollectionCraftingPanel"
 	{

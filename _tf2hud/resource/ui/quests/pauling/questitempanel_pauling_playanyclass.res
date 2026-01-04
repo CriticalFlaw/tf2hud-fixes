@@ -1,6 +1,6 @@
-#base "QuestItemPanel_Pauling_Base.res"
+#base "questitempanel_pauling_base.res"
 
-"Resource/UI/econ/QuestItemPanel_Pauling_PlayAnyClass.res"
+"resource/ui/econ/questitempanel_pauling_playanyclass.res"
 {
 	"QuestItemPanel"
 	{

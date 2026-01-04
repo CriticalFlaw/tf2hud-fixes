@@ -1,4 +1,4 @@
-"Resource/UI/StreamListPanel.res"
+"resource/ui/streamlistpanel.res"
 {
 	"HeaderContainer"
 	{

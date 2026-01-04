@@ -1,6 +1,6 @@
 // Visual improvements to the Stats page
 
-"Resource/UI/winpanel.res"
+"resource/ui/winpanel.res"
 {
 	"StatData"
 	{

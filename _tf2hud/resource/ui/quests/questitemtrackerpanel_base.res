@@ -1,4 +1,4 @@
-"Resource/UI/QuestItemTrackerPanel_Base.res"
+"resource/ui/questitemtrackerpanel_base.res"
 {	
 	"ItemName"
 	{

@@ -1,6 +1,6 @@
 // Adjustments to the Mann vs. Machine scoreboard
 
-"Resource/UI/Scoreboard.res"
+"resource/ui/scoreboard.res"
 {
 	"BluePlayerList"
 	{

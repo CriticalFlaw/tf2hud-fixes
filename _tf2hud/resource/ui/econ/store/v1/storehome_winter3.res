@@ -1,4 +1,4 @@
-"Resource/UI/StoreHome_Winter3.res"
+"resource/ui/storehome_winter3.res"
 {
 	"StorePage"
 	{

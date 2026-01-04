@@ -1,6 +1,6 @@
 // Fix unlocalized text being used in Tournament setup panel
 
-"Resource/UI/HudTournamentSetup.res"
+"resource/ui/hudtournamentsetup.res"
 {
 	"TournamentNotReadyButton"
 	{

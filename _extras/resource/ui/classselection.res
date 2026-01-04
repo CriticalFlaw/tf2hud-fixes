@@ -2,7 +2,7 @@
 // Enable player model rotation
 // Improved player model lighting (Fix by DistantPeak)
 
-"Resource/UI/ClassSelection.res"
+"resource/ui/classselection.res"
 {
 	"TFPlayerModel"
 	{

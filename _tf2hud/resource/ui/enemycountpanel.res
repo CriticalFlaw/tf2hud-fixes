@@ -1,4 +1,4 @@
-"Resource/UI/EnemyCountPanel.res"
+"resource/ui/enemycountpanel.res"
 {	
 	"EnemyCountPanel"
 	{

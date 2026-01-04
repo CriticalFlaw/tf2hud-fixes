@@ -2,7 +2,7 @@
 // Fix match HUD background persisting after match is over
 // Update look of the respawn timer for each player panel
 
-"Resource/UI/HudMatchStatus.res"
+"resource/ui/hudmatchstatus.res"
 {
 	"BGFrame"
 	{

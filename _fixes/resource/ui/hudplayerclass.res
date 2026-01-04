@@ -1,6 +1,6 @@
 // Fix 2D and 3D player model clipping with bounding box (Fix by impale1)
 
-"Resource/UI/HudPlayerClass.res"
+"resource/ui/hudplayerclass.res"
 {
 	"PlayerStatusClassImage"
 	{

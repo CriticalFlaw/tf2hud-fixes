@@ -1,6 +1,6 @@
-#base "QuestItemTrackerPanel_Base.res"
+#base "questitemtrackerpanel_base.res"
 
-"Resource/UI/HudAchievementTrackerItem.res"
+"resource/ui/hudachievementtrackeritem.res"
 {	
 	"ItemTrackerPanel"
 	{
@@ -28,7 +28,7 @@
 
 		"bonus_glow_color" "QuestMap_ActiveOrange"
 
-		"item_attribute_res_file"			"resource/UI/quests/QuestObjectivePanel_InGame_Base.res"
+		"item_attribute_res_file"			"resource/ui/quests/questobjectivepanel_ingame_base.res"
 
 		"ModelImageKV"
 		{

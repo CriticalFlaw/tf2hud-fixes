@@ -1,4 +1,4 @@
-"Resource/UI/StaticBadgePanel.res"
+"resource/ui/staticbadgepanel.res"
 {
 	"BadgePanel"	
 	{

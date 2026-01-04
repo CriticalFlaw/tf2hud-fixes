@@ -1,4 +1,4 @@
-"Resource/UI/TrainingComplete.res"
+"resource/ui/trainingcomplete.res"
 {
  	"TrainingComplete"
 	{

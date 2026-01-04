@@ -1,6 +1,6 @@
 // Show player stats on the main menu
 
-"Resource/UI/PvPRankPanel.res"
+"resource/ui/pvprankpanel.res"
 {
 	"BGPanel"
 	{

@@ -1,7 +1,7 @@
 // Fix Thermal Thruster icon overlap with other elements in minmode
-#base "HudItemEffectMeter.res"
+#base "huditemeffectmeter.res"
 
-"Resource/UI/HudRocketPack.res"
+"resource/ui/hudrocketpack.res"
 {
 	"ItemEffectIcon"
 	{

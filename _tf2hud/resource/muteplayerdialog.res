@@ -1,4 +1,4 @@
-"Resource/MutePlayerDialog.res"
+"resource/muteplayerdialog.res"
 {
 	"MutePlayerDialog"
 	{

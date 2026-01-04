@@ -1,12 +1,12 @@
-#base "..\..\QuestItemPanel_Base.res"
+#base "../../questitempanel_base.res"
 
-"Resource/UI/econ/QuestItemPanel.res"
+"resource/ui/econ/questitempanel.res"
 {
 	"QuestItemPanel"
 	{
 		// Use Operation 1 Pauling
-		"TrackerPanelResFile"	"resource/UI/quests/pauling/QuestItemTrackerPanel_QuestLog.res"	
-		"ItemAttributeResFile"	"resource/UI/quests/pauling/QuestObjectivePanel_QuestLog.res"
+		"TrackerPanelResFile"	"resource/ui/quests/pauling/questitemtrackerpanel_questlog.res"	
+		"ItemAttributeResFile"	"resource/ui/quests/pauling/questobjectivepanel_questlog.res"
 
 		"anim_reset"				"QuestItem_Operation2_Reset"
 		"anim_expand"				"QuestItem_Operation2_Expand"

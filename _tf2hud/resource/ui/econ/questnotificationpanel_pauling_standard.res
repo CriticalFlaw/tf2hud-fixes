@@ -1,6 +1,6 @@
-#base "QuestNotificationPanel_base.res"
+#base "questnotificationpanel_base.res"
 
-"Resource/UI/QuestNotificationPanel_Pauling_standard.res"
+"resource/ui/questnotificationpanel_pauling_standard.res"
 {
 	"QuestNotificationPanel"
 	{

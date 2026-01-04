@@ -1,4 +1,4 @@
-"Resource/UI/disguise_menu/base.res"
+"resource/ui/disguise_menu/base.res"
 {
 	"ClassIcon"	
 	{

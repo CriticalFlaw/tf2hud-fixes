@@ -1,6 +1,6 @@
-#base "CollectionCraftingDialog_Base.res"
+#base "collectioncraftingdialog_base.res"
 
-"Resource/UI/econ/StrangeCountTransferDialog.res"
+"resource/ui/econ/strangecounttransferdialog.res"
 {
 	"CollectionCraftingPanel"
 	{

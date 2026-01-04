@@ -1,4 +1,4 @@
-"Resource/UI/MvMVictoryMannUpTab.res"
+"resource/ui/mvmvictorymannuptab.res"
 {	
 	"PlayerAvatar"
 	{

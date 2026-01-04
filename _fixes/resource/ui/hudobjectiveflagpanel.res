@@ -1,6 +1,6 @@
 // Added minmode support for Capture the Flag
 
-"Resource/UI/HudObjectiveFlagPanel.res"
+"resource/ui/hudobjectiveflagpanel.res"
 {
 	"ObjectiveStatusFlagPanel"
 	{

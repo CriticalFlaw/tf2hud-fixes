@@ -1,4 +1,4 @@
-"Resource/UI/StoreItemControls.res"
+"resource/ui/storeitemcontrols.res"
 {
 	"StoreItemControls"
 	{

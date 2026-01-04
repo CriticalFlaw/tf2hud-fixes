@@ -1,6 +1,6 @@
 // Added minmode support for Payload Race (Contributed by Azkuzku & RoseyLemonz)
 
-"Resource/UI/ObjectiveStatusEscort.res"
+"resource/ui/objectivestatusescort.res"
 {
 	"LevelBar"
 	{

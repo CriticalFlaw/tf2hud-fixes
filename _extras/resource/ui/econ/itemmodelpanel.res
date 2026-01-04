@@ -1,6 +1,6 @@
 // Use higher quality item images
 
-"Resource/UI/ItemModelPanel.res"
+"resource/ui/itemmodelpanel.res"
 {
 	"MainContentsContainer"
 	{

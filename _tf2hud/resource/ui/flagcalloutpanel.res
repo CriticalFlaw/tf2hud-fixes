@@ -1,4 +1,4 @@
-"Resource/UI/FlagCalloutPanel.res"
+"resource/ui/flagcalloutpanel.res"
 {
 	"FlagCalloutPanel"
 	{

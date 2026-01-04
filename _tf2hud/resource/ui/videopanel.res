@@ -1,4 +1,4 @@
-"Resource/UI/VideoPanel.res"
+"resource/ui/videopanel.res"
 {
 	BaseSettings
 	{

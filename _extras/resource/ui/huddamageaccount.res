@@ -1,6 +1,6 @@
 // Added damage dealt indicator
 
-"Resource/UI/HudDamageAccount.res"
+"resource/ui/huddamageaccount.res"
 {
 	"DamageAccountValue"
 	{

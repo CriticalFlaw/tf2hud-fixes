@@ -2,7 +2,7 @@
 // Fix player badge overlapping player list (Fix by impale1)
 // Fix match scores overlapping matchmaking dashboard (Fix by impale1)
 
-"Resource/UI/HudMatchSummary.res"
+"resource/ui/hudmatchsummary.res"
 {
 	"MainStatsContainer"
 	{

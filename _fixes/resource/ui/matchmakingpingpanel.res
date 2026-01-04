@@ -1,7 +1,7 @@
 // Fix to hide the unclickable close button when the ping panel is open (Fix by impale1)
-#base "MatchMakingDashboardSidePanel.res"
+#base "matchmakingdashboardsidepanel.res"
 
-"Resource/UI/MatchMakingPingPanel.res"
+"resource/ui/matchmakingpingpanel.res"
 {
 	"ReturnButton"
 	{

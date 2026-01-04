@@ -1,6 +1,6 @@
 // Fix killstreak and ammo icons not being positioned correctly
 
-"Resource/UI/TargetID.res"
+"resource/ui/targetid.res"
 {
 	"KillstreakIconAnchor"
 	{

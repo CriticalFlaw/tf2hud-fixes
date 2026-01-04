@@ -1,6 +1,6 @@
-#base "LobbyContainerFrame.res"
+#base "lobbycontainerframe.res"
 
-"Resource/UI/LobbyContainerFrame_MvM.res"
+"resource/ui/lobbycontainerframe_mvm.res"
 {
 	"OptionsButton"
 	{

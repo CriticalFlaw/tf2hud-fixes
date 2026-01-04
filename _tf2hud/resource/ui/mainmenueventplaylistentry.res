@@ -1,6 +1,6 @@
-#base "MainMenuPlayListEntry.res"
+#base "mainmenuplaylistentry.res"
 
-"Resource/UI/MainMenuEventPlayListEntry.res"
+"resource/ui/mainmenueventplaylistentry.res"
 {
 	"TimeImage"
 	{

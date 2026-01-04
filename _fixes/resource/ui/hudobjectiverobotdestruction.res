@@ -1,6 +1,6 @@
 // Added minmode support for Robot Destruction (Contributed by RoseyLemonz)
 
-"Resource/UI/HudObjectiveFlagPanel.res"
+"resource/ui/hudobjectiveflagpanel.res"
 {
 	"ObjectiveStatusRobotDestruction"
 	{

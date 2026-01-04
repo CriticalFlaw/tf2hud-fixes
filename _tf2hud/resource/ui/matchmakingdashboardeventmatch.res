@@ -1,6 +1,6 @@
-#base "MatchMakingDashboardSidePanel.res"
+#base "matchmakingdashboardsidepanel.res"
 
-"Resource/UI/MatchMakingDashboardEventMatch.res"
+"resource/ui/matchmakingdashboardeventmatch.res"
 {
 	"EventMatch"
 	{

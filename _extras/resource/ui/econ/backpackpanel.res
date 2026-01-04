@@ -1,7 +1,7 @@
 // Added shortcut keys for page navigation (A and D)
 // Visual adjustments to the page
 
-"Resource/UI/FullLoadoutPanel.res"
+"resource/ui/fullloadoutpanel.res"
 {
 	"ShowBaseItemsCheckbox"
 	{

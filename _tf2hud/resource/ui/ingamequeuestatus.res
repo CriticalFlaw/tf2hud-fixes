@@ -1,4 +1,4 @@
-"Resource/UI/InGameQueueStatus.res"
+"resource/ui/ingamequeuestatus.res"
 {
 	"QueueHUDStatus"
 	{
