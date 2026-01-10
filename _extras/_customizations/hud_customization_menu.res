@@ -147,7 +147,7 @@
 			"labelText"						"#IT_Apply"
 			"font"							"HudFontSmallBold"
 			"textAlignment"					"center"
-			"Command"						"engine cl_mainmenu_safemode 0; mat_queue_mode -1; hud_reloadscheme; toggle mat_aaquality"
+			"Command"						"engine cl_mainmenu_safemode 0; mat_queue_mode -1; hud_reloadscheme"
 			"actionsignallevel"				"2"
 			"sound_depressed"				"UI/buttonclick.wav"
 
