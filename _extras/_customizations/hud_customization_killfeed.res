@@ -9,7 +9,7 @@
 				"ControlName"						"EditablePanel"
 				"fieldName"							"Killfeed"
 				"xpos"								"429"
-				"ypos"								"80"
+				"ypos"								"240"
 				"zpos"								"0"
 				"wide"								"70"
 				"tall"								"70"

@@ -9,7 +9,7 @@
 				"ControlName"						"EditablePanel"
 				"fieldName"							"General"
 				"xpos"								"5"
-				"ypos"								"242"
+				"ypos"								"5"
 				"zpos"								"0"
 				"wide"								"f35"
 				"tall"								"65"

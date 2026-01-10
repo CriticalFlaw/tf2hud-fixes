@@ -9,7 +9,7 @@
 				"ControlName"						"EditablePanel"
 				"fieldName"							"Spy_Disguise"
 				"xpos"								"328"
-				"ypos"								"5"
+				"ypos"								"240"
 				"zpos"								"0"
 				"wide"								"97"
 				"tall"								"70"

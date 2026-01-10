@@ -9,7 +9,7 @@
 				"ControlName"						"EditablePanel"
 				"fieldName"							"Transparent_Viewmodels"
 				"xpos"								"147"
-				"ypos"								"80"
+				"ypos"								"165"
 				"zpos"								"0"
 				"wide"								"137"
 				"tall"								"70"

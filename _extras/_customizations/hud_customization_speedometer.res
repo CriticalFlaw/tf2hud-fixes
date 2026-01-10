@@ -9,7 +9,7 @@
 				"ControlName"						"EditablePanel"
 				"fieldName"							"Speedometer"
 				"xpos"								"429"
-				"ypos"								"5"
+				"ypos"								"165"
 				"zpos"								"0"
 				"wide"								"70"
 				"tall"								"70"
