@@ -198,8 +198,8 @@
 			{
 				"ControlName"						"EditablePanel"
 				"fieldName"							"Last_Damage"
-				"xpos"								"5"
-				"ypos"								"0"
+				"xpos"								"147"
+				"ypos"								"5"
 				"zpos"								"0"
 				"wide"								"176"
 				"tall"								"70"
@@ -210,10 +210,6 @@
 				"paintBackgroundType"				"2"
 				"roundedcorners"					"5"
 				"bgcolor_override"					"FooterBGBlack"
-				
-				"pin_to_sibling"					"Floating_Damage"
-				"pin_corner_to_sibling"				"PIN_BOTTOMLEFT"
-				"pin_to_sibling_corner"				"PIN_BOTTOMRIGHT"
 				
 				"Title"
 				{
