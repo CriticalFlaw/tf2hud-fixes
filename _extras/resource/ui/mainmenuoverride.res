@@ -74,7 +74,6 @@
 	}
 	"GeneralStoreButton"
 	{
-		"xpos"			"c-172"
 		"ypos"			"437"
 		"tall"			"25"
 	}
