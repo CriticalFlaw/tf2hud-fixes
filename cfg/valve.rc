@@ -20,12 +20,5 @@ sv_unlockedchapters 99
 
 // HUD Settings
 exec hud_customizations.cfg
+exec hud-fixes/setup.txt
 hud_reloadscheme
-
-// Transparent Viewmodels
-mat_motion_blur_enabled 1
-mat_motion_blur_strength 0
-mat_disable_bloom 1
-mat_hdr_level 0
-mat_colcorrection_disableentities 1
-mat_colorcorrection 0
