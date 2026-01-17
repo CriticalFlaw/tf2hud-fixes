@@ -15,5 +15,33 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+		"CloseCaption"
+		{
+			"1"
+			{
+				"tall"		"12"
+			}
+		}
+		"CloseCaption_Italic"
+		{
+			"1"
+			{
+				"tall"		"12"
+			}
+		}
+		"CloseCaption_Bold"
+		{
+			"1"
+			{
+				"tall"		"12"
+			}
+		}
+		"CloseCaption_BoldItalic"
+		{
+			"1"
+			{
+				"tall"		"12"
+			}
+		}
 	}
 }
