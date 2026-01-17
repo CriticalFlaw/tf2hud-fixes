@@ -23,6 +23,7 @@
 			"textAlignment"	"center"
 			"ypos"			"180"	[!$OSX]
 			"wide"			"406"
+			"zpos"			"5"
 		}
 		"RecordsBG"
 		{
