@@ -24,7 +24,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"			"VersionLabel"
 		"font"				"FontStorePrice"
-		"labelText"			"Community HUD Fixes R10"
+		"labelText"			"Community HUD Fixes R11"
 		"xpos"				"0"
 		"ypos"				"r13"
 		"zpos"				"1"
