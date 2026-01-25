@@ -44,4 +44,12 @@ Scheme
 			}
 		}
 	}
+	CustomFontFiles
+	{
+		"18"
+		{
+			"font" "resource/ocr-a-extended.ttf"
+			"name" "OCR A Extended"
+		}
+	}
 }
