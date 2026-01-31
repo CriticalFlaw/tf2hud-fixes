@@ -1,5 +1,6 @@
 // Fix Show Promo button overlapping MOTD panel
 // Fix incorrect zpos for FooterLine
+// Fix width of Items button to support other languages
 
 "resource/ui/mainmenuoverride.res"
 {

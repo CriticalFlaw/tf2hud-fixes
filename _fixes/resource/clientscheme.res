@@ -1,4 +1,6 @@
 // Added missing font entry
+// Increased closed caption font size
+// Fix OCR A Extended font not working on Windows
 
 Scheme
 {
