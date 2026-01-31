@@ -75,6 +75,17 @@
 				"ypos_minmode"		"78"
 			}
 		}
+		"EscortItemImageAlert"
+		{
+			"if_multiple_trains_top"
+			{
+				"ypos_minmode"		"48"
+			}
+			"if_multiple_trains_bottom"
+			{
+				"ypos_minmode"		"98"
+			}
+		}
 		"Speed_Backwards"
 		{
 			"if_multiple_trains_top"
