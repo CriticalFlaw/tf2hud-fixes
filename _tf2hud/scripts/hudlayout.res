@@ -361,6 +361,7 @@
 		"fieldName"			"CurrencyStatusPanel"
 		"xpos"				"0"
 		"ypos"				"r100"
+		"zpos"				"1"
 		"wide"				"100"
 		"tall"				"100"
 		"xpos_minmode"		"65"
