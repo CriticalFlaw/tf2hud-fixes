@@ -9,9 +9,9 @@
 		"model_wide"		"80"
 		"model_tall"		"50"
 	}
+
 	"FreezePanelBase"	[$WIN32]
 	{
-		
 		"FreezeLabel"
 		{
 			"xpos"			"45"
@@ -19,7 +19,7 @@
 
 		"FreezeLabelKiller"	
 		{	
-			"xpos"			"53"
+			"xpos"			"54"
 		}
 
 		"AvatarImage"
@@ -29,7 +29,10 @@
 
 		"FreezePanelHealth"
 		{
+			"xpos"			"9"
 			"ypos"			"161"
+			"wide"			"32"
+			"tall"			"32"
 		}	
 	}
 }
