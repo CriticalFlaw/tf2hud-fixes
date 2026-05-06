@@ -26,7 +26,7 @@
 	}
 	"CreditStatsContainer"
 	{
-		"xpos"			"90"
+		"xpos"			"80"
 		"ypos"			"228"
 	}
 }
