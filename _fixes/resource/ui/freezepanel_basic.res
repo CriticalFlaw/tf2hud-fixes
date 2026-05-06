@@ -11,14 +11,20 @@
 	}
 	"FreezePanelBase"	[$WIN32]
 	{
+		
+		"FreezeLabel"
+		{
+			"xpos"			"45"
+		}
+
 		"FreezeLabelKiller"	
 		{	
-			"xpos"			"48"
+			"xpos"			"53"
 		}
 
 		"AvatarImage"
 		{
-			"xpos"			"40"
+			"xpos"			"45"
 		}	
 
 		"FreezePanelHealth"
