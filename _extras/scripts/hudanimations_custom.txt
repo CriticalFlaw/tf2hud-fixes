@@ -64,3 +64,14 @@ event TeamStatus_PlayerAlive
 {
 	SetVisible	respawntime	0	0.2
 }
+
+//==================================================================================
+// Stops chat position from changing on loadout switch
+
+event CompetitiveGame_LowerChatWindow
+{
+}
+
+event CompetitiveGame_RestoreChatWindow
+{
+}
